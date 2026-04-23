@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: #111827;
+  background: #ffffff;
+}
+
+/* Leaflet default styles */
+.leaflet-container {
+  font-family: inherit;
+}
+
+/* Discourse marker hover */
+.cd-marker span {
+  transform-origin: center;
+}
+.cd-marker:hover span {
+  transform: scale(1.12) !important;
+}
+
+/* Popup: remove default bubble styling so card feels native */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: transparent;
+  box-shadow: none;
+}
+.leaflet-popup-content {
+  margin: 0;
+}
+.cd-popup .leaflet-popup-content-wrapper {
+  padding: 0;
+}
+
