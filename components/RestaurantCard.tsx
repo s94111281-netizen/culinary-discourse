@@ -120,12 +120,12 @@ export function RestaurantCard({
           ) : null}
         </div>
         <div className="rounded-xl border border-slate-200 bg-slate-50/70 p-2">
-          <div className="text-[11px] font-semibold tracking-wide text-slate-600">Coding evidence</div>
-          <ul className="mt-1 space-y-1 text-xs leading-relaxed text-slate-600">
-            {restaurant.coding_evidence.map((line) => (
-              <li key={line}>- {line}</li>
-            ))}
-          </ul>
+          <div className="text-[11px] font-semibold tracking-wide text-slate-600">
+            Restaurant introduction
+          </div>
+          <p className="mt-1 text-xs leading-relaxed text-slate-600">
+            {restaurant.coding_evidence[0] ?? "No introduction available."}
+          </p>
         </div>
 
         <div className="flex flex-wrap gap-1.5">

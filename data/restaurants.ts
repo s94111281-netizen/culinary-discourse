@@ -24,6 +24,81 @@ export type Restaurant = {
   };
 };
 
+const restaurantIntroductionsById: Record<string, string> = {
+  "openrice-新肥泉海鲜大排档":
+    "A local dai pai dong serving classic Cantonese seafood with strong wok hei, offering affordable and generous portions in a casual cooked food centre.",
+  "openrice-得闲饮茶":
+    "A popular spot for creative and high-quality Cantonese dim sum at reasonable prices, beloved by locals for its fresh and delicate handmade items.",
+  "openrice-富豪酒家":
+    "A Michelin-starred Cantonese restaurant with over 25 years of history, famous for exquisite dim sum, premium abalone dishes, and elegant fine dining experience.",
+  "openrice-孖宝车仔面":
+    "A budget-friendly cart noodle shop with a wide selection of toppings, best enjoyed with signature satay and homemade sauces.",
+  "openrice-痴胶鸡":
+    "A cosy local eatery specialising in nourishing fish maw and chicken soup rice noodles, served hot with a small stove to keep warm.",
+  "openrice-刘森记面家":
+    "A time-honored noodle shop with over 70 years of history, serving traditional bamboo-pressed noodles topped with generous shrimp roe.",
+  "openrice-三不馆":
+    "A retro Hong Kong-style hot pot restaurant featuring vintage decor and fresh local ingredients, popular for its Instagrammable nostalgic ambiance.",
+  "openrice-九记牛腩":
+    "A legendary 90-year-old eatery renowned for clear broth beef brisket noodles and rich curry brisket noodles, often with long queues.",
+  "openrice-甘记烧鹅":
+    "A Michelin-starred BBQ restaurant famous for crispy, juicy roast goose with golden skin, paired with noodles or rice.",
+  "openrice-金华冰室":
+    "A classic Hong Kong cha chaan teng known for speedy service, signature pineapple bun, egg tarts, and nostalgic local snacks.",
+  "openrice-永顺沙爹牛肉专门店":
+    "A long-established local shop serving rich and fragrant satay beef noodles, a favourite comfort food among Hong Kong people.",
+  "openrice-一品鸡煲火锅":
+    "A hot pot restaurant famous for spicy and flavourful chicken hot pot with rich sauce, perfect for pairing with handmade cuttlefish balls.",
+  "openrice-红茶":
+    "An iconic local cha chaan teng offering generous portions of classic Hong Kong dishes, including pineapple bun, milk tea, and stir-fried noodles.",
+  "openrice-六福菜馆":
+    "A Michelin-starred Sai Kung seafood restaurant, well-known for fresh seafood and signature pre-order chili crispy skin chicken.",
+  "openrice-忆食尚":
+    "A quality clay pot rice restaurant with homemade preserved meats, featuring crispy rice crust and rich, authentic flavours.",
+  "openrice-聚来车仔":
+    "A friendly cart noodle shop with diverse ingredients and unique homemade sauces, also popular for tasty egg waffle and French toast.",
+  "openrice-新同乐":
+    "A prestigious Michelin-starred Cantonese restaurant with 56 years of heritage, specialising in contemporary premium dried seafood dishes.",
+  "openrice-大班楼":
+    "A high-end traditional Cantonese restaurant named among Asia's Best 50, using local fresh ingredients to preserve authentic classic flavours.",
+  "openrice-都爹利会馆":
+    "A Michelin-starred fine dining venue in a 1920s-style Lingnan mansion, focusing on refined traditional Cantonese flavours and forgotten cooking techniques.",
+  "openrice-一乐烧鹅":
+    "A Michelin-starred local BBQ shop famous for crispy, fatty roast goose with tender meat, served with noodles or congee.",
+  "openrice-彭庆记食家":
+    "A Michelin-starred eatery celebrated for flavourful Cantonese stir-fries and homestyle dishes with premium ingredients.",
+  "openrice-兴记猪什专门店":
+    "A popular spot for pork offal lovers, offering generous and flavourful pork offal noodles with spicy pepper soup.",
+  "openrice-大滚友":
+    "A Chinese-style hot pot restaurant featuring nourishing papaya fish soup base, fresh beef, handmade fish balls, and clean, comfortable environment.",
+  "openrice-陳儀興玫瑰餐廳":
+    "A hot pot restaurant offering various chicken pot flavours including coconut chicken and Chongqing spicy chicken, with classic Chinese decor.",
+  "openrice-船涡-boat-boat-steam":
+    "A private steam hot pot restaurant with curtained seats, focusing on fresh seafood and guided cooking timers for a pleasant dining experience.",
+  "openrice-鋿晶馆":
+    "A popular local dim sum restaurant offering handmade, freshly steamed dim sum with high quality and affordable prices, loved by nearby office workers.",
+  "openrice-妈咪鸡蛋仔":
+    "A classic Hong Kong street snack shop serving freshly baked, crispy egg waffles with rich egg flavour and various tasty fillings.",
+  "openrice-龙凤店":
+    "A neighbourhood snack shop famous for special egg sandwiches with parma ham and crab meat, as well as bottled milk tea.",
+  "openrice-大澳饼店":
+    "A traditional local bakery known for freshly fried egg puffs with crispy outside and soft inside, a popular Tai O snack.",
+  "openrice-申子居酒屋":
+    "A cosy Japanese izakaya with wooden decor, offering fresh sashimi, skewers, oyster pot, and creative dishes in a private atmosphere.",
+  "openrice-yadllie-plate":
+    "A Korean-style restaurant famous for imported Korean fried chicken with special homemade sauces, popular for honey cheese flavour.",
+  "openrice-tamarind":
+    "A Thai street-style restaurant popular for Thai boat noodles, Northern Thai curry chicken, and volcanic ribs, with authentic flavours.",
+  "openrice-grissini":
+    "An elegant Italian restaurant in Grand Hyatt Hong Kong with harbour views, specialising in authentic Italian dishes and signature grissini breadsticks.",
+  "openrice-odelice":
+    "A romantic Parisian bistro-themed chain offering home-style French dishes with Asian fusion elements, ideal for casual fine dining.",
+  "openrice-鱼事者":
+    "An innovative eatery specialising in creative fish-based noodles and snacks, featuring fresh fish broth and handmade fish noodles.",
+  "openrice-nonsense":
+    "A cosy fusion cafe and bar with creative dishes, signature burnt cheesecake, coffee, and cocktails, suitable for casual gatherings."
+};
+
 function extractChineseName(name: string) {
   const chineseParts = name.match(/[\u3400-\u9FFF]+/g);
   return chineseParts ? chineseParts.join("") : "";
@@ -236,6 +311,7 @@ const seedRestaurants = ((seed.restaurants ?? []) as Array<
   return {
     ...item,
     ...discourse,
+    coding_evidence: [restaurantIntroductionsById[item.id] ?? discourse.coding_evidence[0]],
     photo_url: item.photo_url ?? buildFallbackPhotoUrl(item)
   };
 });
