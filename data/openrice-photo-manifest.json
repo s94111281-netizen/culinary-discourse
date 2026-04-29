@@ -1,0 +1,7747 @@
+{
+  "totalSaved": 182,
+  "totalPages": 56,
+  "selectedCount": 38,
+  "restaurants": [
+    {
+      "index": 1,
+      "page": 1,
+      "titleText": "1 新肥泉海鲜大排档",
+      "infoPage": 1,
+      "selectedPhotoUrl": "/openrice-photos/page-001-img-01.png",
+      "selectedFileName": "page-001-img-01.png",
+      "candidates": [
+        "page-001-img-01.png"
+      ]
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "titleText": "2 佐敦寶靈街",
+      "infoPage": 2,
+      "selectedPhotoUrl": "/openrice-photos/page-001-img-03.png",
+      "selectedFileName": "page-001-img-03.png",
+      "candidates": [
+        "page-001-img-03.png",
+        "page-001-img-02.png",
+        "page-002-img-02.png",
+        "page-002-img-01.png",
+        "page-002-img-03.png"
+      ]
+    },
+    {
+      "index": 3,
+      "page": 4,
+      "titleText": "3 得闲饮茶",
+      "infoPage": 4,
+      "selectedPhotoUrl": "/openrice-photos/page-004-img-01.png",
+      "selectedFileName": "page-004-img-01.png",
+      "candidates": [
+        "page-004-img-01.png"
+      ]
+    },
+    {
+      "index": 4,
+      "page": 5,
+      "titleText": "4 富豪酒家",
+      "infoPage": 5,
+      "selectedPhotoUrl": "/openrice-photos/page-005-img-03.png",
+      "selectedFileName": "page-005-img-03.png",
+      "candidates": [
+        "page-005-img-03.png"
+      ]
+    },
+    {
+      "index": 5,
+      "page": 7,
+      "titleText": "5 孖宝车仔面",
+      "infoPage": 7,
+      "selectedPhotoUrl": "/openrice-photos/page-007-img-01.png",
+      "selectedFileName": "page-007-img-01.png",
+      "candidates": [
+        "page-007-img-01.png"
+      ]
+    },
+    {
+      "index": 6,
+      "page": 8,
+      "titleText": "6 痴胶鸡",
+      "infoPage": 8,
+      "selectedPhotoUrl": "/openrice-photos/page-008-img-03.png",
+      "selectedFileName": "page-008-img-03.png",
+      "candidates": [
+        "page-008-img-03.png"
+      ]
+    },
+    {
+      "index": 7,
+      "page": 10,
+      "titleText": "7 刘森记面家",
+      "infoPage": 10,
+      "selectedPhotoUrl": "/openrice-photos/page-010-img-01.png",
+      "selectedFileName": "page-010-img-01.png",
+      "candidates": [
+        "page-010-img-01.png"
+      ]
+    },
+    {
+      "index": 8,
+      "page": 11,
+      "titleText": "8 三不馆",
+      "infoPage": 12,
+      "selectedPhotoUrl": "/openrice-photos/page-011-img-03.png",
+      "selectedFileName": "page-011-img-03.png",
+      "candidates": [
+        "page-011-img-03.png"
+      ]
+    },
+    {
+      "index": 9,
+      "page": 13,
+      "titleText": "9 九记牛腩",
+      "infoPage": 13,
+      "selectedPhotoUrl": "/openrice-photos/page-013-img-01.png",
+      "selectedFileName": "page-013-img-01.png",
+      "candidates": [
+        "page-013-img-01.png"
+      ]
+    },
+    {
+      "index": 10,
+      "page": 14,
+      "titleText": "10 甘记烧鹅",
+      "infoPage": 14,
+      "selectedPhotoUrl": "/openrice-photos/page-014-img-03.png",
+      "selectedFileName": "page-014-img-03.png",
+      "candidates": [
+        "page-014-img-03.png"
+      ]
+    },
+    {
+      "index": 11,
+      "page": 16,
+      "titleText": "11 金华冰室",
+      "infoPage": 16,
+      "selectedPhotoUrl": "/openrice-photos/page-016-img-01.png",
+      "selectedFileName": "page-016-img-01.png",
+      "candidates": [
+        "page-016-img-01.png"
+      ]
+    },
+    {
+      "index": 12,
+      "page": 17,
+      "titleText": "12 永顺沙爹牛肉专门店",
+      "infoPage": 17,
+      "selectedPhotoUrl": "/openrice-photos/page-017-img-03.png",
+      "selectedFileName": "page-017-img-03.png",
+      "candidates": [
+        "page-017-img-03.png"
+      ]
+    },
+    {
+      "index": 13,
+      "page": 19,
+      "titleText": "13 一品鸡煲火锅",
+      "infoPage": 19,
+      "selectedPhotoUrl": "/openrice-photos/page-019-img-01.png",
+      "selectedFileName": "page-019-img-01.png",
+      "candidates": [
+        "page-019-img-01.png"
+      ]
+    },
+    {
+      "index": 14,
+      "page": 20,
+      "titleText": "14 红茶",
+      "infoPage": 20,
+      "selectedPhotoUrl": "/openrice-photos/page-020-img-02.png",
+      "selectedFileName": "page-020-img-02.png",
+      "candidates": [
+        "page-020-img-02.png"
+      ]
+    },
+    {
+      "index": 15,
+      "page": 22,
+      "titleText": "15 六福菜馆",
+      "infoPage": 22,
+      "selectedPhotoUrl": "/openrice-photos/page-022-img-01.png",
+      "selectedFileName": "page-022-img-01.png",
+      "candidates": [
+        "page-022-img-01.png"
+      ]
+    },
+    {
+      "index": 16,
+      "page": 23,
+      "titleText": "16 忆食尚",
+      "infoPage": 23,
+      "selectedPhotoUrl": "/openrice-photos/page-023-img-03.png",
+      "selectedFileName": "page-023-img-03.png",
+      "candidates": [
+        "page-023-img-03.png"
+      ]
+    },
+    {
+      "index": 17,
+      "page": 24,
+      "titleText": "17 聚来车仔",
+      "infoPage": 25,
+      "selectedPhotoUrl": "/openrice-photos/page-025-img-01.png",
+      "selectedFileName": "page-025-img-01.png",
+      "candidates": [
+        "page-025-img-01.png"
+      ]
+    },
+    {
+      "index": 18,
+      "page": 26,
+      "titleText": "18 新同乐",
+      "infoPage": 26,
+      "selectedPhotoUrl": "/openrice-photos/page-026-img-03.png",
+      "selectedFileName": "page-026-img-03.png",
+      "candidates": [
+        "page-026-img-03.png"
+      ]
+    },
+    {
+      "index": 19,
+      "page": 28,
+      "titleText": "19 大班楼",
+      "infoPage": 28,
+      "selectedPhotoUrl": "/openrice-photos/page-028-img-01.png",
+      "selectedFileName": "page-028-img-01.png",
+      "candidates": [
+        "page-028-img-01.png"
+      ]
+    },
+    {
+      "index": 20,
+      "page": 29,
+      "titleText": "20 都爹利会馆",
+      "infoPage": 29,
+      "selectedPhotoUrl": "/openrice-photos/page-029-img-03.png",
+      "selectedFileName": "page-029-img-03.png",
+      "candidates": [
+        "page-029-img-03.png"
+      ]
+    },
+    {
+      "index": 21,
+      "page": 31,
+      "titleText": "21 一乐烧鹅",
+      "infoPage": 31,
+      "selectedPhotoUrl": "/openrice-photos/page-031-img-01.png",
+      "selectedFileName": "page-031-img-01.png",
+      "candidates": [
+        "page-031-img-01.png"
+      ]
+    },
+    {
+      "index": 22,
+      "page": 32,
+      "titleText": "22 彭庆记食家",
+      "infoPage": 32,
+      "selectedPhotoUrl": "/openrice-photos/page-032-img-02.png",
+      "selectedFileName": "page-032-img-02.png",
+      "candidates": [
+        "page-032-img-02.png"
+      ]
+    },
+    {
+      "index": 23,
+      "page": 34,
+      "titleText": "23 兴记猪什专门店",
+      "infoPage": 34,
+      "selectedPhotoUrl": "/openrice-photos/page-034-img-01.png",
+      "selectedFileName": "page-034-img-01.png",
+      "candidates": [
+        "page-034-img-01.png"
+      ]
+    },
+    {
+      "index": 24,
+      "page": 35,
+      "titleText": "24 大滚友",
+      "infoPage": 35,
+      "selectedPhotoUrl": "/openrice-photos/page-035-img-03.png",
+      "selectedFileName": "page-035-img-03.png",
+      "candidates": [
+        "page-035-img-03.png"
+      ]
+    },
+    {
+      "index": 25,
+      "page": 36,
+      "titleText": "25 陳儀興玫瑰餐廳",
+      "infoPage": 37,
+      "selectedPhotoUrl": "/openrice-photos/page-037-img-01.png",
+      "selectedFileName": "page-037-img-01.png",
+      "candidates": [
+        "page-037-img-01.png"
+      ]
+    },
+    {
+      "index": 26,
+      "page": 38,
+      "titleText": "26 船涡",
+      "infoPage": 38,
+      "selectedPhotoUrl": "/openrice-photos/page-038-img-03.png",
+      "selectedFileName": "page-038-img-03.png",
+      "candidates": [
+        "page-038-img-03.png"
+      ]
+    },
+    {
+      "index": 27,
+      "page": 39,
+      "titleText": "27 鋿晶馆",
+      "infoPage": 40,
+      "selectedPhotoUrl": "/openrice-photos/page-040-img-01.png",
+      "selectedFileName": "page-040-img-01.png",
+      "candidates": [
+        "page-040-img-01.png"
+      ]
+    },
+    {
+      "index": 28,
+      "page": 41,
+      "titleText": "28 妈咪鸡蛋仔",
+      "infoPage": 41,
+      "selectedPhotoUrl": "/openrice-photos/page-041-img-03.png",
+      "selectedFileName": "page-041-img-03.png",
+      "candidates": [
+        "page-041-img-03.png"
+      ]
+    },
+    {
+      "index": 29,
+      "page": 42,
+      "titleText": "29 龙凤店",
+      "infoPage": 43,
+      "selectedPhotoUrl": "/openrice-photos/page-043-img-01.png",
+      "selectedFileName": "page-043-img-01.png",
+      "candidates": [
+        "page-043-img-01.png"
+      ]
+    },
+    {
+      "index": 30,
+      "page": 44,
+      "titleText": "30 大澳饼店",
+      "infoPage": 44,
+      "selectedPhotoUrl": "/openrice-photos/page-044-img-03.png",
+      "selectedFileName": "page-044-img-03.png",
+      "candidates": [
+        "page-044-img-03.png"
+      ]
+    },
+    {
+      "index": 31,
+      "page": 45,
+      "titleText": "31 申子居酒屋",
+      "infoPage": 46,
+      "selectedPhotoUrl": "/openrice-photos/page-045-img-04.png",
+      "selectedFileName": "page-045-img-04.png",
+      "candidates": [
+        "page-045-img-04.png"
+      ]
+    },
+    {
+      "index": 32,
+      "page": 47,
+      "titleText": "32 Yadllie Plate",
+      "infoPage": 47,
+      "selectedPhotoUrl": "/openrice-photos/page-047-img-01.png",
+      "selectedFileName": "page-047-img-01.png",
+      "candidates": [
+        "page-047-img-01.png"
+      ]
+    },
+    {
+      "index": 33,
+      "page": 48,
+      "titleText": "33 33 Tamarind",
+      "infoPage": 48,
+      "selectedPhotoUrl": "/openrice-photos/page-048-img-03.png",
+      "selectedFileName": "page-048-img-03.png",
+      "candidates": [
+        "page-048-img-03.png"
+      ]
+    },
+    {
+      "index": 34,
+      "page": 49,
+      "titleText": "34 Paradise Classic",
+      "infoPage": 49,
+      "selectedPhotoUrl": "/openrice-photos/page-049-img-02.png",
+      "selectedFileName": "page-049-img-02.png",
+      "candidates": []
+    },
+    {
+      "index": 35,
+      "page": 50,
+      "titleText": "35 35 Grissini",
+      "infoPage": 51,
+      "selectedPhotoUrl": "/openrice-photos/page-051-img-01.png",
+      "selectedFileName": "page-051-img-01.png",
+      "candidates": [
+        "page-051-img-01.png"
+      ]
+    },
+    {
+      "index": 36,
+      "page": 52,
+      "titleText": "36 Odelice",
+      "infoPage": 52,
+      "selectedPhotoUrl": "/openrice-photos/page-052-img-03.png",
+      "selectedFileName": "page-052-img-03.png",
+      "candidates": [
+        "page-052-img-03.png"
+      ]
+    },
+    {
+      "index": 37,
+      "page": 53,
+      "titleText": "37 鱼事者",
+      "infoPage": 54,
+      "selectedPhotoUrl": "/openrice-photos/page-054-img-01.png",
+      "selectedFileName": "page-054-img-01.png",
+      "candidates": [
+        "page-054-img-01.png"
+      ]
+    },
+    {
+      "index": 38,
+      "page": 55,
+      "titleText": "38 Nonsense",
+      "infoPage": 55,
+      "selectedPhotoUrl": "/openrice-photos/page-055-img-03.png",
+      "selectedFileName": "page-055-img-03.png",
+      "candidates": [
+        "page-055-img-03.png"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "textRows": [
+        {
+          "text": "1",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "新肥泉海鲜大排档",
+          "x": 46.8,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "Cooked Food Centre, 2/F, Kwun",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Chung Municipal Services Building, 17 Bowring Street,",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Jordan",
+          "x": 281.33,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "佐敦寶靈街",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "17",
+          "x": 91.224,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "號官涌市政大廈",
+          "x": 104.9,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "2",
+          "x": 181.1,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 189.17,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "熟食中心",
+          "x": 205.01,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style / Seafood / Cooked Food Center",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "美食展示：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 1,
+          "fileName": "page-001-img-01.png",
+          "url": "/openrice-photos/page-001-img-01.png",
+          "objId": "img_p0_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 450.5,
+            "minY": 511.67,
+            "maxY": 788.1700000000001,
+            "width": 414.5,
+            "height": 276.50000000000006
+          },
+          "width": 1276,
+          "height": 851
+        },
+        {
+          "page": 1,
+          "fileName": "page-001-img-02.png",
+          "url": "/openrice-photos/page-001-img-02.png",
+          "objId": "img_p0_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 239.35,
+            "minY": 73.047,
+            "maxY": 400.02700000000004,
+            "width": 203.35,
+            "height": 326.98
+          },
+          "width": 625,
+          "height": 1005
+        },
+        {
+          "page": 1,
+          "fileName": "page-001-img-03.png",
+          "url": "/openrice-photos/page-001-img-03.png",
+          "objId": "img_p0_3",
+          "bbox": {
+            "minX": 240,
+            "maxX": 443.2,
+            "minY": 73.12,
+            "maxY": 400.03000000000003,
+            "width": 203.2,
+            "height": 326.91
+          },
+          "width": 632,
+          "height": 1019
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "textRows": [
+        {
+          "text": "2",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "香香宫煮",
+          "x": 46.8,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Tasty Hotpot Palace",
+          "x": 91.464,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "1/F, Golden Glory Mansion, 16",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Carnarvon Road, Tsim Sha Tsui",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "尖沙咀加拿芬道",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "16",
+          "x": 112.22,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "號金輝大廈",
+          "x": 125.9,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 181.1,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 189.17,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "It is a Chinese court themed hot pot restaurant. It provides Chinese court dress for customers to take pictures and",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "wear to enjoy meals. The hot pot soup bases serve several flavours, such as fish maw and chicken soup, sea snails in",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "spicy wine. The hot pot",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "ingredients are diverse, including meat from worldwide and different types of seafood.",
+          "x": 143.06,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 2,
+          "fileName": "page-002-img-01.png",
+          "url": "/openrice-photos/page-002-img-01.png",
+          "objId": "img_p1_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 232.3,
+            "minY": 533.29,
+            "maxY": 796.77,
+            "width": 196.3,
+            "height": 263.48
+          },
+          "width": 601,
+          "height": 806
+        },
+        {
+          "page": 2,
+          "fileName": "page-002-img-02.png",
+          "url": "/openrice-photos/page-002-img-02.png",
+          "objId": "img_p1_2",
+          "bbox": {
+            "minX": 232.5,
+            "maxX": 430.97,
+            "minY": 533.07,
+            "maxY": 798.27,
+            "width": 198.47000000000003,
+            "height": 265.19999999999993
+          },
+          "width": 609,
+          "height": 815
+        },
+        {
+          "page": 2,
+          "fileName": "page-002-img-03.png",
+          "url": "/openrice-photos/page-002-img-03.png",
+          "objId": "img_p1_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 558.5,
+            "minY": 156.87,
+            "maxY": 503.37,
+            "width": 522.5,
+            "height": 346.5
+          },
+          "width": 1274,
+          "height": 844
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "textRows": [
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Hot Pot",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 3,
+          "fileName": "page-003-img-01.png",
+          "url": "/openrice-photos/page-003-img-01.png",
+          "objId": "img_p2_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 263.49,
+            "minY": 388.92,
+            "maxY": 755.6700000000001,
+            "width": 227.49,
+            "height": 366.75000000000006
+          },
+          "width": 631,
+          "height": 1018
+        },
+        {
+          "page": 3,
+          "fileName": "page-003-img-02.png",
+          "url": "/openrice-photos/page-003-img-02.png",
+          "objId": "img_p2_2",
+          "bbox": {
+            "minX": 264,
+            "maxX": 484.99,
+            "minY": 388.52,
+            "maxY": 745.17,
+            "width": 220.99,
+            "height": 356.65
+          },
+          "width": 613,
+          "height": 990
+        },
+        {
+          "page": 3,
+          "fileName": "page-003-img-03.png",
+          "url": "/openrice-photos/page-003-img-03.png",
+          "objId": "img_p2_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 282.47,
+            "minY": 41.601,
+            "maxY": 369.051,
+            "width": 246.47000000000003,
+            "height": 327.45
+          },
+          "width": 684,
+          "height": 909
+        },
+        {
+          "page": 3,
+          "fileName": "page-003-img-04.png",
+          "url": "/openrice-photos/page-003-img-04.png",
+          "objId": "img_p2_4",
+          "bbox": {
+            "minX": 282.5,
+            "maxX": 518.99,
+            "minY": 41.601,
+            "maxY": 365.951,
+            "width": 236.49,
+            "height": 324.35
+          },
+          "width": 656,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "textRows": [
+        {
+          "text": "3",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "得闲饮茶",
+          "x": 46.8,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, Kit Man House, 13 Kuk Ting",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "Street, Yuen Long",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "元朗谷亭街",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "13",
+          "x": 91.224,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "號傑文樓地舖",
+          "x": 104.9,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style / Dim Sum /Tea Restaurant",
+          "x": 67.584,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 4,
+          "fileName": "page-004-img-01.png",
+          "url": "/openrice-photos/page-004-img-01.png",
+          "objId": "img_p3_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 266.46000000000004,
+            "minY": 558.42,
+            "maxY": 788.22,
+            "width": 230.46000000000004,
+            "height": 229.80000000000007
+          },
+          "width": 640,
+          "height": 638
+        },
+        {
+          "page": 4,
+          "fileName": "page-004-img-02.png",
+          "url": "/openrice-photos/page-004-img-02.png",
+          "objId": "img_p3_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 283,
+            "minY": 49.42,
+            "maxY": 446.38,
+            "width": 247,
+            "height": 396.96
+          },
+          "width": 686,
+          "height": 1102
+        },
+        {
+          "page": 4,
+          "fileName": "page-004-img-03.png",
+          "url": "/openrice-photos/page-004-img-03.png",
+          "objId": "img_p3_3",
+          "bbox": {
+            "minX": 283.5,
+            "maxX": 536.94,
+            "minY": 48.925,
+            "maxY": 455.375,
+            "width": 253.44000000000005,
+            "height": 406.45
+          },
+          "width": 703,
+          "height": 1129
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "4",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "富豪酒家",
+          "x": 46.8,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 5,
+          "fileName": "page-005-img-01.png",
+          "url": "/openrice-photos/page-005-img-01.png",
+          "objId": "img_p4_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 278.48,
+            "minY": 484.87,
+            "maxY": 784.3199999999999,
+            "width": 242.48000000000002,
+            "height": 299.44999999999993
+          },
+          "width": 673,
+          "height": 831
+        },
+        {
+          "page": 5,
+          "fileName": "page-005-img-02.png",
+          "url": "/openrice-photos/page-005-img-02.png",
+          "objId": "img_p4_2",
+          "bbox": {
+            "minX": 279,
+            "maxX": 551.64,
+            "minY": 484.42,
+            "maxY": 757.3199999999999,
+            "width": 272.64,
+            "height": 272.8999999999999
+          },
+          "width": 757,
+          "height": 758
+        },
+        {
+          "page": 5,
+          "fileName": "page-005-img-03.png",
+          "url": "/openrice-photos/page-005-img-03.png",
+          "objId": "img_p4_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 558.5,
+            "minY": 65.425,
+            "maxY": 454.925,
+            "width": 522.5,
+            "height": 389.5
+          },
+          "width": 1276,
+          "height": 951
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "textRows": [
+        {
+          "text": "Shop 402, 4/F, FoodLoft, Mira",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "Place 1, 132 Nathan Road, Tsim",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "Sha Tsui",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "尖沙咀彌敦道",
+          "x": 36,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "132",
+          "x": 101.78,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "號美麗華廣場",
+          "x": 120.98,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 186.65,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "期食四方",
+          "x": 194.81,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "4",
+          "x": 239.45,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 247.61,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "402",
+          "x": 260.81,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 279.89,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 732.58,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Fine Dried Seafood / Stir",
+          "x": 36,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 210.05,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "Fry / Dim Sum Restaurant",
+          "x": 215.33,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 701.38,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 358.13,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 6,
+          "fileName": "page-006-img-01.png",
+          "url": "/openrice-photos/page-006-img-01.png",
+          "objId": "img_p5_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 237.97,
+            "minY": 370.27,
+            "maxY": 695.67,
+            "width": 201.97,
+            "height": 325.4
+          },
+          "width": 622,
+          "height": 1002
+        },
+        {
+          "page": 6,
+          "fileName": "page-006-img-02.png",
+          "url": "/openrice-photos/page-006-img-02.png",
+          "objId": "img_p5_2",
+          "bbox": {
+            "minX": 238.5,
+            "maxX": 434.98,
+            "minY": 370.62,
+            "maxY": 688.1700000000001,
+            "width": 196.48000000000002,
+            "height": 317.55000000000007
+          },
+          "width": 605,
+          "height": 977
+        },
+        {
+          "page": 6,
+          "fileName": "page-006-img-03.png",
+          "url": "/openrice-photos/page-006-img-03.png",
+          "objId": "img_p5_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 263.97,
+            "minY": 44.351,
+            "maxY": 350.701,
+            "width": 227.97000000000003,
+            "height": 306.35
+          },
+          "width": 633,
+          "height": 850
+        },
+        {
+          "page": 6,
+          "fileName": "page-006-img-04.png",
+          "url": "/openrice-photos/page-006-img-04.png",
+          "objId": "img_p5_4",
+          "bbox": {
+            "minX": 264,
+            "maxX": 496.85,
+            "minY": 44.777,
+            "maxY": 350.347,
+            "width": 232.85000000000002,
+            "height": 305.57
+          },
+          "width": 646,
+          "height": 848
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "textRows": [
+        {
+          "text": "5",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "孖宝车仔面",
+          "x": 46.8,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Shop A15, G/F, Kwai Chung Plaza",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 186.17,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "7",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 41.52,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "11 Kwai Foo Road, Kwai Fong",
+          "x": 46.8,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "葵芳葵富路",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "7",
+          "x": 91.224,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 96.744,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "11",
+          "x": 102.02,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號葵涌廣場地下",
+          "x": 115.7,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "A15",
+          "x": 191.81,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 212.21,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "This cart noodles restaurant provides many different choices for the ingredients, with low price. Remember to add",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "the satay sauce and their homemade sauce on top of the noodles before eating.",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Food Stall Noodles",
+          "x": 67.584,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 7,
+          "fileName": "page-007-img-01.png",
+          "url": "/openrice-photos/page-007-img-01.png",
+          "objId": "img_p6_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 387.48,
+            "minY": 525.37,
+            "maxY": 790.0699999999999,
+            "width": 351.48,
+            "height": 264.69999999999993
+          },
+          "width": 1271,
+          "height": 957
+        },
+        {
+          "page": 7,
+          "fileName": "page-007-img-02.png",
+          "url": "/openrice-photos/page-007-img-02.png",
+          "objId": "img_p6_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 253,
+            "minY": 42.076,
+            "maxY": 399.37600000000003,
+            "width": 217,
+            "height": 357.3
+          },
+          "width": 602,
+          "height": 992
+        },
+        {
+          "page": 7,
+          "fileName": "page-007-img-03.png",
+          "url": "/openrice-photos/page-007-img-03.png",
+          "objId": "img_p6_3",
+          "bbox": {
+            "minX": 253.5,
+            "maxX": 475.99,
+            "minY": 42.076,
+            "maxY": 399.776,
+            "width": 222.49,
+            "height": 357.7
+          },
+          "width": 618,
+          "height": 993
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "6",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "痴胶鸡",
+          "x": 46.8,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "G/F,254 Hennessy Road, Wan",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 8,
+          "fileName": "page-008-img-01.png",
+          "url": "/openrice-photos/page-008-img-01.png",
+          "objId": "img_p7_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 263.3,
+            "minY": 499.39,
+            "maxY": 784.87,
+            "width": 227.3,
+            "height": 285.48
+          },
+          "width": 631,
+          "height": 793
+        },
+        {
+          "page": 8,
+          "fileName": "page-008-img-02.png",
+          "url": "/openrice-photos/page-008-img-02.png",
+          "objId": "img_p7_2",
+          "bbox": {
+            "minX": 264,
+            "maxX": 477.5,
+            "minY": 499.37,
+            "maxY": 783.22,
+            "width": 213.5,
+            "height": 283.85
+          },
+          "width": 593,
+          "height": 788
+        },
+        {
+          "page": 8,
+          "fileName": "page-008-img-03.png",
+          "url": "/openrice-photos/page-008-img-03.png",
+          "objId": "img_p7_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 559,
+            "minY": 80.525,
+            "maxY": 470.525,
+            "width": 523,
+            "height": 390
+          },
+          "width": 1279,
+          "height": 954
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "textRows": [
+        {
+          "text": "Chai",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "灣仔軒尼詩道",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "254",
+          "x": 101.78,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "號地舗",
+          "x": 120.98,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Noodles/Rice Noodles",
+          "x": 36,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 732.58,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 311.33,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 9,
+          "fileName": "page-009-img-01.png",
+          "url": "/openrice-photos/page-009-img-01.png",
+          "objId": "img_p8_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 287.05,
+            "minY": 322.66,
+            "maxY": 726.12,
+            "width": 251.05,
+            "height": 403.46
+          },
+          "width": 697,
+          "height": 1120
+        },
+        {
+          "page": 9,
+          "fileName": "page-009-img-02.png",
+          "url": "/openrice-photos/page-009-img-02.png",
+          "objId": "img_p8_2",
+          "bbox": {
+            "minX": 287.05,
+            "maxX": 538.05,
+            "minY": 322.97,
+            "maxY": 727.62,
+            "width": 250.99999999999994,
+            "height": 404.65
+          },
+          "width": 697,
+          "height": 1124
+        },
+        {
+          "page": 9,
+          "fileName": "page-009-img-03.png",
+          "url": "/openrice-photos/page-009-img-03.png",
+          "objId": "img_p8_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 388.3,
+            "minY": 42.154,
+            "maxY": 306.124,
+            "width": 352.3,
+            "height": 263.97
+          },
+          "width": 1267,
+          "height": 949
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "textRows": [
+        {
+          "text": "7",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "刘森记面家",
+          "x": 46.8,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 80 Fuk Wing Street, Sham",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "Shui Po",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "深水埗福榮街",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "80",
+          "x": 101.78,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 115.46,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "One of the \"Shamsuipo Best 3\", Lau Sam Kee must",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 263.09,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "try dishes include Shrimp Roe, Jook Sing and Beef Stomach, and",
+          "x": 268.25,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "the Picked Radish on the dining table is the unforgettable side.",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Noodles/Rice Noodles",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 10,
+          "fileName": "page-010-img-01.png",
+          "url": "/openrice-photos/page-010-img-01.png",
+          "objId": "img_p9_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 382.1,
+            "minY": 557.07,
+            "maxY": 789.57,
+            "width": 346.1,
+            "height": 232.5
+          },
+          "width": 1271,
+          "height": 854
+        },
+        {
+          "page": 10,
+          "fileName": "page-010-img-02.png",
+          "url": "/openrice-photos/page-010-img-02.png",
+          "objId": "img_p9_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 263,
+            "minY": 46.25,
+            "maxY": 411.2,
+            "width": 227,
+            "height": 364.95
+          },
+          "width": 630,
+          "height": 1013
+        },
+        {
+          "page": 10,
+          "fileName": "page-010-img-03.png",
+          "url": "/openrice-photos/page-010-img-03.png",
+          "objId": "img_p9_3",
+          "bbox": {
+            "minX": 263,
+            "maxX": 487.98,
+            "minY": 46.25,
+            "maxY": 408.2,
+            "width": 224.98000000000002,
+            "height": 361.95
+          },
+          "width": 698,
+          "height": 1122
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "8",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "三不馆",
+          "x": 46.8,
+          "y": 451.75,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 11,
+          "fileName": "page-011-img-01.png",
+          "url": "/openrice-photos/page-011-img-01.png",
+          "objId": "img_p10_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 289.47,
+            "minY": 468.92,
+            "maxY": 784.12,
+            "width": 253.47000000000003,
+            "height": 315.2
+          },
+          "width": 704,
+          "height": 875
+        },
+        {
+          "page": 11,
+          "fileName": "page-011-img-02.png",
+          "url": "/openrice-photos/page-011-img-02.png",
+          "objId": "img_p10_2",
+          "bbox": {
+            "minX": 289.5,
+            "maxX": 545.48,
+            "minY": 469.42,
+            "maxY": 782.4200000000001,
+            "width": 255.98000000000002,
+            "height": 313.00000000000006
+          },
+          "width": 783,
+          "height": 958
+        },
+        {
+          "page": 11,
+          "fileName": "page-011-img-03.png",
+          "url": "/openrice-photos/page-011-img-03.png",
+          "objId": "img_p10_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 559,
+            "minY": 48.575,
+            "maxY": 440.075,
+            "width": 523,
+            "height": 391.5
+          },
+          "width": 1275,
+          "height": 954
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "7/F,SL GINZA, 68 Electric Road",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 173.18,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "Tin Hau",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "天后電氣道",
+          "x": 36,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "68",
+          "x": 91.224,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "號樹林銀座",
+          "x": 104.9,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "7",
+          "x": 160.1,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 168.26,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "It is the secondary line of the Sheep and Pig restaurant. It uses fresh ingredients such as different beef cuts and",
+          "x": 36,
+          "y": 732.58,
+          "h": 10.56
+        },
+        {
+          "text": "imported sashimito serve local style hot pot. The vintage design of ancient tea stall and Hong Kong film are IG",
+          "x": 36,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 531.34,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "able.",
+          "x": 536.5,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 701.38,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style / Hot Pot / Stir",
+          "x": 36,
+          "y": 685.78,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 244.37,
+          "y": 685.78,
+          "h": 10.56
+        },
+        {
+          "text": "Fry",
+          "x": 249.65,
+          "y": 685.78,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 670.18,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 342.53,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 12,
+          "fileName": "page-012-img-01.png",
+          "url": "/openrice-photos/page-012-img-01.png",
+          "objId": "img_p11_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 228.48,
+            "minY": 354.67,
+            "maxY": 664.77,
+            "width": 192.48,
+            "height": 310.09999999999997
+          },
+          "width": 590,
+          "height": 950
+        },
+        {
+          "page": 12,
+          "fileName": "page-012-img-02.png",
+          "url": "/openrice-photos/page-012-img-02.png",
+          "objId": "img_p11_2",
+          "bbox": {
+            "minX": 228.5,
+            "maxX": 410.47,
+            "minY": 354.27,
+            "maxY": 648.87,
+            "width": 181.97000000000003,
+            "height": 294.6
+          },
+          "width": 559,
+          "height": 905
+        },
+        {
+          "page": 12,
+          "fileName": "page-012-img-03.png",
+          "url": "/openrice-photos/page-012-img-03.png",
+          "objId": "img_p11_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 254.8,
+            "minY": 44.26,
+            "maxY": 335.23,
+            "width": 218.8,
+            "height": 290.97
+          },
+          "width": 669,
+          "height": 891
+        },
+        {
+          "page": 12,
+          "fileName": "page-012-img-04.png",
+          "url": "/openrice-photos/page-012-img-04.png",
+          "objId": "img_p11_4",
+          "bbox": {
+            "minX": 255,
+            "maxX": 473.05,
+            "minY": 44.226,
+            "maxY": 334.126,
+            "width": 218.05,
+            "height": 289.9
+          },
+          "width": 605,
+          "height": 805
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "textRows": [
+        {
+          "text": "9",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "九记牛腩",
+          "x": 46.8,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 21 Gough Street, Central",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "中環歌賦街",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "21",
+          "x": 91.224,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 104.9,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "With over 90 years of history in Hong Kong, Kau Kee Restaurant is famous of their Beef Brisket Noodles served in",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "clear broth and Beef Curry Noodles. This restaurant almost always has a long line so try to visit during non peak",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "hours.",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong/ Noodles/Rice Noodles / Nostalgic",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 358.13,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 13,
+          "fileName": "page-013-img-01.png",
+          "url": "/openrice-photos/page-013-img-01.png",
+          "objId": "img_p12_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 251.99,
+            "minY": 498.65,
+            "maxY": 785.5999999999999,
+            "width": 215.99,
+            "height": 286.94999999999993
+          },
+          "width": 599,
+          "height": 797
+        },
+        {
+          "page": 13,
+          "fileName": "page-013-img-02.png",
+          "url": "/openrice-photos/page-013-img-02.png",
+          "objId": "img_p12_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 228.47,
+            "minY": 42.926,
+            "maxY": 352.776,
+            "width": 192.47,
+            "height": 309.85
+          },
+          "width": 593,
+          "height": 954
+        },
+        {
+          "page": 13,
+          "fileName": "page-013-img-03.png",
+          "url": "/openrice-photos/page-013-img-03.png",
+          "objId": "img_p12_3",
+          "bbox": {
+            "minX": 228.5,
+            "maxX": 421.48,
+            "minY": 42.276,
+            "maxY": 351.776,
+            "width": 192.98000000000002,
+            "height": 309.5
+          },
+          "width": 593,
+          "height": 950
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "10",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "甘记烧鹅",
+          "x": 52.32,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, Po Wah Commercial Center,",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "226 Hennessy Road, Wan Chai",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "灣仔軒尼詩道",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "226",
+          "x": 101.78,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號寶華商業中心地舖",
+          "x": 120.98,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "Kam's Roast Goose is a Guangdong",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 196.49,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "style restaurant that specialises in serving variations of Chinese BBQ meats.",
+          "x": 201.65,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "Their signature dish, roast goose, can be paired with soup noodles, rice and other food items.",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Chinese BBQ / Stir",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 182.06,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "Fry",
+          "x": 187.25,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 14,
+          "fileName": "page-014-img-01.png",
+          "url": "/openrice-photos/page-014-img-01.png",
+          "objId": "img_p13_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 290.6,
+            "minY": 449.02,
+            "maxY": 788.97,
+            "width": 254.60000000000002,
+            "height": 339.95000000000005
+          },
+          "width": 707,
+          "height": 944
+        },
+        {
+          "page": 14,
+          "fileName": "page-014-img-02.png",
+          "url": "/openrice-photos/page-014-img-02.png",
+          "objId": "img_p13_2",
+          "bbox": {
+            "minX": 291,
+            "maxX": 544.45,
+            "minY": 448.52,
+            "maxY": 785.97,
+            "width": 253.45000000000005,
+            "height": 337.45000000000005
+          },
+          "width": 704,
+          "height": 937
+        },
+        {
+          "page": 14,
+          "fileName": "page-014-img-03.png",
+          "url": "/openrice-photos/page-014-img-03.png",
+          "objId": "img_p13_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 382.46,
+            "minY": 168.17,
+            "maxY": 430.16999999999996,
+            "width": 346.46,
+            "height": 262
+          },
+          "width": 1272,
+          "height": 962
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 15,
+          "fileName": "page-015-img-01.png",
+          "url": "/openrice-photos/page-015-img-01.png",
+          "objId": "img_p14_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 279.4,
+            "minY": 391.75,
+            "maxY": 783.1700000000001,
+            "width": 243.39999999999998,
+            "height": 391.4200000000001
+          },
+          "width": 676,
+          "height": 1087
+        },
+        {
+          "page": 15,
+          "fileName": "page-015-img-02.png",
+          "url": "/openrice-photos/page-015-img-02.png",
+          "objId": "img_p14_2",
+          "bbox": {
+            "minX": 279.4,
+            "maxX": 522.88,
+            "minY": 391.67,
+            "maxY": 783.37,
+            "width": 243.48000000000002,
+            "height": 391.7
+          },
+          "width": 676,
+          "height": 1088
+        },
+        {
+          "page": 15,
+          "fileName": "page-015-img-03.png",
+          "url": "/openrice-photos/page-015-img-03.png",
+          "objId": "img_p14_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 470.7,
+            "minY": 45.327,
+            "maxY": 365.327,
+            "width": 434.7,
+            "height": 320
+          },
+          "width": 1270,
+          "height": 935
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "textRows": [
+        {
+          "text": "11",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "金华冰室",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "G/F,47 Bute Street, Prince Edward",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "太子弼街",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "47",
+          "x": 80.784,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 94.344,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Kam Wah serves in the speed of light, since their signature dishes are the Pineapple bun and eggtarts are that",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "popular, it is obvious hat the staff need to be on top form.",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Tea Restaurant / Nostalgic",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 16,
+          "fileName": "page-016-img-01.png",
+          "url": "/openrice-photos/page-016-img-01.png",
+          "objId": "img_p15_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 246,
+            "minY": 510.42,
+            "maxY": 789.4200000000001,
+            "width": 210,
+            "height": 279.00000000000006
+          },
+          "width": 583,
+          "height": 774
+        },
+        {
+          "page": 16,
+          "fileName": "page-016-img-02.png",
+          "url": "/openrice-photos/page-016-img-02.png",
+          "objId": "img_p15_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 243.49,
+            "minY": 47.126,
+            "maxY": 379.626,
+            "width": 207.49,
+            "height": 332.5
+          },
+          "width": 637,
+          "height": 1021
+        },
+        {
+          "page": 16,
+          "fileName": "page-016-img-03.png",
+          "url": "/openrice-photos/page-016-img-03.png",
+          "objId": "img_p15_3",
+          "bbox": {
+            "minX": 243.5,
+            "maxX": 443.98,
+            "minY": 46.626,
+            "maxY": 369.82599999999996,
+            "width": 200.48000000000002,
+            "height": 323.2
+          },
+          "width": 616,
+          "height": 992
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "12",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "永顺沙爹牛肉专门店",
+          "x": 52.32,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "Shop F, G/F, Koon Wong Mansion,",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "2 Yuen Long On Ning Road, Yuen",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Long",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "元朗元朗安寧路",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "2",
+          "x": 112.22,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "號冠煌樓地下",
+          "x": 120.38,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "F",
+          "x": 186.05,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 193.61,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Noodles/Rice Noodles /",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Tea Restaurant",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 17,
+          "fileName": "page-017-img-01.png",
+          "url": "/openrice-photos/page-017-img-01.png",
+          "objId": "img_p16_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 268.55,
+            "minY": 479.87,
+            "maxY": 788.8299999999999,
+            "width": 232.55,
+            "height": 308.9599999999999
+          },
+          "width": 645,
+          "height": 858
+        },
+        {
+          "page": 17,
+          "fileName": "page-017-img-02.png",
+          "url": "/openrice-photos/page-017-img-02.png",
+          "objId": "img_p16_2",
+          "bbox": {
+            "minX": 268.55,
+            "maxX": 502.8,
+            "minY": 479.91,
+            "maxY": 787.32,
+            "width": 234.25,
+            "height": 307.41
+          },
+          "width": 650,
+          "height": 853
+        },
+        {
+          "page": 17,
+          "fileName": "page-017-img-03.png",
+          "url": "/openrice-photos/page-017-img-03.png",
+          "objId": "img_p16_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 416.97,
+            "minY": 172.57,
+            "maxY": 457.02,
+            "width": 380.97,
+            "height": 284.45
+          },
+          "width": 1277,
+          "height": 953
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 18,
+          "fileName": "page-018-img-01.png",
+          "url": "/openrice-photos/page-018-img-01.png",
+          "objId": "img_p17_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 282.25,
+            "minY": 389.35,
+            "maxY": 785.77,
+            "width": 246.25,
+            "height": 396.41999999999996
+          },
+          "width": 684,
+          "height": 1101
+        },
+        {
+          "page": 18,
+          "fileName": "page-018-img-02.png",
+          "url": "/openrice-photos/page-018-img-02.png",
+          "objId": "img_p17_2",
+          "bbox": {
+            "minX": 282.25,
+            "maxX": 519.35,
+            "minY": 389.28,
+            "maxY": 771.77,
+            "width": 237.10000000000002,
+            "height": 382.49
+          },
+          "width": 658,
+          "height": 1062
+        },
+        {
+          "page": 18,
+          "fileName": "page-018-img-03.png",
+          "url": "/openrice-photos/page-018-img-03.png",
+          "objId": "img_p17_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 272.99,
+            "minY": 48.426,
+            "maxY": 362.82599999999996,
+            "width": 236.99,
+            "height": 314.4
+          },
+          "width": 658,
+          "height": 873
+        },
+        {
+          "page": 18,
+          "fileName": "page-018-img-04.png",
+          "url": "/openrice-photos/page-018-img-04.png",
+          "objId": "img_p17_4",
+          "bbox": {
+            "minX": 273,
+            "maxX": 507.53999999999996,
+            "minY": 48.376,
+            "maxY": 361.32599999999996,
+            "width": 234.53999999999996,
+            "height": 312.95
+          },
+          "width": 651,
+          "height": 869
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "textRows": [
+        {
+          "text": "13",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "一品鸡煲火锅",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 73 Chung On Street, Tsuen Wan",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "灣眾安街",
+          "x": 205.01,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "73",
+          "x": 249.77,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號地舗",
+          "x": 263.33,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Famous for its hot and spicy chicken pot, rich in ingredients as well as spices, you must beware of its strong flavor",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "which is not easy to be accepted. Signature hand",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 256.49,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "made cuttlefish ball is recommended, which made the best match",
+          "x": 261.65,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "with the spicy soup.",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Hot Pot / Chicken Hot Pot / Stir",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 263.57,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "Fry",
+          "x": 268.73,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 19,
+          "fileName": "page-019-img-01.png",
+          "url": "/openrice-photos/page-019-img-01.png",
+          "objId": "img_p18_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 387.49,
+            "minY": 514,
+            "maxY": 785.85,
+            "width": 351.49,
+            "height": 271.85
+          },
+          "width": 1268,
+          "height": 980
+        },
+        {
+          "page": 19,
+          "fileName": "page-019-img-02.png",
+          "url": "/openrice-photos/page-019-img-02.png",
+          "objId": "img_p18_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 245.98,
+            "minY": 45.126,
+            "maxY": 381.876,
+            "width": 209.98,
+            "height": 336.75
+          },
+          "width": 644,
+          "height": 1033
+        },
+        {
+          "page": 19,
+          "fileName": "page-019-img-03.png",
+          "url": "/openrice-photos/page-019-img-03.png",
+          "objId": "img_p18_3",
+          "bbox": {
+            "minX": 246,
+            "maxX": 452.4,
+            "minY": 44.41,
+            "maxY": 377.38,
+            "width": 206.39999999999998,
+            "height": 332.97
+          },
+          "width": 632,
+          "height": 1019
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "14",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "红茶",
+          "x": 52.32,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "G/F,186 Tung Choi Street, Prince",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "Edward",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "太子通菜街",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "186",
+          "x": 91.224,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 110.42,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Tea Restaurant",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 20,
+          "fileName": "page-020-img-01.png",
+          "url": "/openrice-photos/page-020-img-01.png",
+          "objId": "img_p19_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 255.8,
+            "minY": 435.97,
+            "maxY": 785.9200000000001,
+            "width": 219.8,
+            "height": 349.95000000000005
+          },
+          "width": 610,
+          "height": 972
+        },
+        {
+          "page": 20,
+          "fileName": "page-020-img-02.png",
+          "url": "/openrice-photos/page-020-img-02.png",
+          "objId": "img_p19_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 395.45,
+            "minY": 140.3,
+            "maxY": 410.75,
+            "width": 359.45,
+            "height": 270.45
+          },
+          "width": 1272,
+          "height": 958
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 21,
+          "fileName": "page-021-img-01.png",
+          "url": "/openrice-photos/page-021-img-01.png",
+          "objId": "img_p20_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 279.49,
+            "minY": 391.12,
+            "maxY": 783.9200000000001,
+            "width": 243.49,
+            "height": 392.80000000000007
+          },
+          "width": 676,
+          "height": 1091
+        },
+        {
+          "page": 21,
+          "fileName": "page-021-img-02.png",
+          "url": "/openrice-photos/page-021-img-02.png",
+          "objId": "img_p20_2",
+          "bbox": {
+            "minX": 279.5,
+            "maxX": 522.47,
+            "minY": 390.92,
+            "maxY": 784.12,
+            "width": 242.97000000000003,
+            "height": 393.2
+          },
+          "width": 674,
+          "height": 1092
+        },
+        {
+          "page": 21,
+          "fileName": "page-021-img-03.png",
+          "url": "/openrice-photos/page-021-img-03.png",
+          "objId": "img_p20_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 278.99,
+            "minY": 43.026,
+            "maxY": 367.476,
+            "width": 242.99,
+            "height": 324.45
+          },
+          "width": 674,
+          "height": 901
+        },
+        {
+          "page": 21,
+          "fileName": "page-021-img-04.png",
+          "url": "/openrice-photos/page-021-img-04.png",
+          "objId": "img_p20_4",
+          "bbox": {
+            "minX": 279,
+            "maxX": 522.97,
+            "minY": 43.026,
+            "maxY": 367.62600000000003,
+            "width": 243.97000000000003,
+            "height": 324.6
+          },
+          "width": 677,
+          "height": 901
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "textRows": [
+        {
+          "text": "15",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "六福菜馆",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 49 See Cheung Street, Sai",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Kung",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "西貢市場街",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "49",
+          "x": 91.224,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 104.9,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "An iconic seafood restaurant in Sai Kung where customers can bring along their freshly bought seafood and let the",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "chef decide the menu. Don't miss their signature chili pepper crispy skin chicken, which needs to be pre",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 500.98,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "ordered at",
+          "x": 506.26,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "the time of reservation.",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Seafood / Seafood Restaurant",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 358.13,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 22,
+          "fileName": "page-022-img-01.png",
+          "url": "/openrice-photos/page-022-img-01.png",
+          "objId": "img_p21_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 308.5,
+            "minY": 513.92,
+            "maxY": 786.42,
+            "width": 272.5,
+            "height": 272.5
+          },
+          "width": 756,
+          "height": 756
+        },
+        {
+          "page": 22,
+          "fileName": "page-022-img-02.png",
+          "url": "/openrice-photos/page-022-img-02.png",
+          "objId": "img_p21_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 226.48,
+            "minY": 43.526,
+            "maxY": 351.776,
+            "width": 190.48,
+            "height": 308.25
+          },
+          "width": 585,
+          "height": 945
+        },
+        {
+          "page": 22,
+          "fileName": "page-022-img-03.png",
+          "url": "/openrice-photos/page-022-img-03.png",
+          "objId": "img_p21_3",
+          "bbox": {
+            "minX": 226.5,
+            "maxX": 417.75,
+            "minY": 42.776,
+            "maxY": 352.276,
+            "width": 191.25,
+            "height": 309.5
+          },
+          "width": 587,
+          "height": 950
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "16",
+          "x": 36,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "忆食尚",
+          "x": 52.32,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 217.7,
+          "h": 10.56
+        },
+        {
+          "text": "2 G/F, 22",
+          "x": 36,
+          "y": 202.1,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 76.824,
+          "y": 202.1,
+          "h": 10.56
+        },
+        {
+          "text": "24 Man Wun Street,",
+          "x": 82.104,
+          "y": 202.1,
+          "h": 10.56
+        },
+        {
+          "text": "Jordan",
+          "x": 36,
+          "y": 186.5,
+          "h": 10.56
+        },
+        {
+          "text": "佐敦文匯街",
+          "x": 36,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "22",
+          "x": 91.224,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 102.26,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "24",
+          "x": 107.54,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "號地下",
+          "x": 121.22,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "2",
+          "x": 155.3,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 160.82,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "4",
+          "x": 166.1,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 174.26,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "The owner of the restaurant is also lap",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 208.25,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "mei. manufacturer. It has its own factory. All of the lap",
+          "x": 213.53,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 456.1,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "mei does not contain",
+          "x": 461.38,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "any preservatives and chemicals. It uses the pork from Heyuan and Chongqing.",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 23,
+          "fileName": "page-023-img-01.png",
+          "url": "/openrice-photos/page-023-img-01.png",
+          "objId": "img_p22_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 311.49,
+            "minY": 560.97,
+            "maxY": 764.82,
+            "width": 275.49,
+            "height": 203.85000000000002
+          },
+          "width": 765,
+          "height": 566
+        },
+        {
+          "page": 23,
+          "fileName": "page-023-img-02.png",
+          "url": "/openrice-photos/page-023-img-02.png",
+          "objId": "img_p22_2",
+          "bbox": {
+            "minX": 312,
+            "maxX": 540.98,
+            "minY": 561.22,
+            "maxY": 785.82,
+            "width": 228.98000000000002,
+            "height": 224.60000000000002
+          },
+          "width": 636,
+          "height": 623
+        },
+        {
+          "page": 23,
+          "fileName": "page-023-img-03.png",
+          "url": "/openrice-photos/page-023-img-03.png",
+          "objId": "img_p22_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 448.6,
+            "minY": 230.1,
+            "maxY": 539.35,
+            "width": 412.6,
+            "height": 309.25
+          },
+          "width": 1275,
+          "height": 955
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "17",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "聚来车仔",
+          "x": 52.32,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 24,
+          "fileName": "page-024-img-01.png",
+          "url": "/openrice-photos/page-024-img-01.png",
+          "objId": "img_p23_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 260.75,
+            "minY": 437.82,
+            "maxY": 799.55,
+            "width": 224.75,
+            "height": 361.72999999999996
+          },
+          "width": 624,
+          "height": 1004
+        },
+        {
+          "page": 24,
+          "fileName": "page-024-img-02.png",
+          "url": "/openrice-photos/page-024-img-02.png",
+          "objId": "img_p23_2",
+          "bbox": {
+            "minX": 261,
+            "maxX": 486.53999999999996,
+            "minY": 437.8,
+            "maxY": 799.6500000000001,
+            "width": 225.53999999999996,
+            "height": 361.8500000000001
+          },
+          "width": 626,
+          "height": 1005
+        },
+        {
+          "page": 24,
+          "fileName": "page-024-img-03.png",
+          "url": "/openrice-photos/page-024-img-03.png",
+          "objId": "img_p23_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 292.74,
+            "minY": 65.225,
+            "maxY": 408.275,
+            "width": 256.74,
+            "height": 343.04999999999995
+          },
+          "width": 713,
+          "height": 952
+        },
+        {
+          "page": 24,
+          "fileName": "page-024-img-04.png",
+          "url": "/openrice-photos/page-024-img-04.png",
+          "objId": "img_p23_4",
+          "bbox": {
+            "minX": 292.75,
+            "maxX": 537.45,
+            "minY": 65.375,
+            "maxY": 390.275,
+            "width": 244.70000000000005,
+            "height": 324.9
+          },
+          "width": 679,
+          "height": 902
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 172 KiLung Street, Sham",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Shui Po",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "深水埗基隆街",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "172",
+          "x": 101.78,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 120.98,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Delightful cart noodles provide a variety of ingredients. Surprisingly, you can order Ovaltine French Toast here,",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "which is as delicate and delicious as a dessert restaurant.",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Food Stall Noodles",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 25,
+          "fileName": "page-025-img-01.png",
+          "url": "/openrice-photos/page-025-img-01.png",
+          "objId": "img_p24_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 290.15,
+            "minY": 541.44,
+            "maxY": 805.33,
+            "width": 254.14999999999998,
+            "height": 263.89
+          },
+          "width": 705,
+          "height": 733
+        },
+        {
+          "page": 25,
+          "fileName": "page-025-img-02.png",
+          "url": "/openrice-photos/page-025-img-02.png",
+          "objId": "img_p24_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 253.45,
+            "minY": 45.351,
+            "maxY": 396.521,
+            "width": 217.45,
+            "height": 351.17
+          },
+          "width": 604,
+          "height": 975
+        },
+        {
+          "page": 25,
+          "fileName": "page-025-img-03.png",
+          "url": "/openrice-photos/page-025-img-03.png",
+          "objId": "img_p24_3",
+          "bbox": {
+            "minX": 253.5,
+            "maxX": 470.1,
+            "minY": 45.347,
+            "maxY": 394.87699999999995,
+            "width": 216.60000000000002,
+            "height": 349.53
+          },
+          "width": 601,
+          "height": 970
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "18",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "新同乐",
+          "x": 52.32,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 186.5,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 401, 4/F, FoodLoft, Mira",
+          "x": 36,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "Place 1, 132 Nathan Road, Tsim",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "Sha Tsui",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "尖沙咀彌敦道",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "132",
+          "x": 101.78,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "號美麗華廣場",
+          "x": 120.98,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 186.65,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "期食四方",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "4",
+          "x": 80.784,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 88.824,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "401",
+          "x": 102.02,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號",
+          "x": 121.22,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "Sun Tong Lok's menu has a strong focus on contemporary Guangdong cuisines, with signature dishes including",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "dry",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 50.64,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "aged beef ribs and mushroom",
+          "x": 55.8,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 192.41,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "stuffed crab shell.",
+          "x": 197.69,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Fine Dried Seafood / Stir",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 210.05,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "Fry / Salt & Sugar Reduction Restaurant",
+          "x": 215.33,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 26,
+          "fileName": "page-026-img-01.png",
+          "url": "/openrice-photos/page-026-img-01.png",
+          "objId": "img_p25_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 274.78,
+            "minY": 466.02,
+            "maxY": 785.92,
+            "width": 238.77999999999997,
+            "height": 319.9
+          },
+          "width": 663,
+          "height": 888
+        },
+        {
+          "page": 26,
+          "fileName": "page-026-img-02.png",
+          "url": "/openrice-photos/page-026-img-02.png",
+          "objId": "img_p25_2",
+          "bbox": {
+            "minX": 274.8,
+            "maxX": 516.8,
+            "minY": 466.56,
+            "maxY": 787.02,
+            "width": 241.99999999999994,
+            "height": 320.46
+          },
+          "width": 672,
+          "height": 890
+        },
+        {
+          "page": 26,
+          "fileName": "page-026-img-03.png",
+          "url": "/openrice-photos/page-026-img-03.png",
+          "objId": "img_p25_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 404.74,
+            "minY": 199.77,
+            "maxY": 444.87,
+            "width": 368.74,
+            "height": 245.1
+          },
+          "width": 1272,
+          "height": 846
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 27,
+          "fileName": "page-027-img-01.png",
+          "url": "/openrice-photos/page-027-img-01.png",
+          "objId": "img_p26_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 258.85,
+            "minY": 432.24,
+            "maxY": 789.63,
+            "width": 222.85000000000002,
+            "height": 357.39
+          },
+          "width": 619,
+          "height": 992
+        },
+        {
+          "page": 27,
+          "fileName": "page-027-img-02.png",
+          "url": "/openrice-photos/page-027-img-02.png",
+          "objId": "img_p26_2",
+          "bbox": {
+            "minX": 259.5,
+            "maxX": 476.65,
+            "minY": 432.9,
+            "maxY": 784.72,
+            "width": 217.14999999999998,
+            "height": 351.82000000000005
+          },
+          "width": 603,
+          "height": 977
+        },
+        {
+          "page": 27,
+          "fileName": "page-027-img-03.png",
+          "url": "/openrice-photos/page-027-img-03.png",
+          "objId": "img_p26_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 282.65,
+            "minY": 45.604,
+            "maxY": 411.87399999999997,
+            "width": 246.64999999999998,
+            "height": 366.27
+          },
+          "width": 685,
+          "height": 1017
+        },
+        {
+          "page": 27,
+          "fileName": "page-027-img-04.png",
+          "url": "/openrice-photos/page-027-img-04.png",
+          "objId": "img_p26_4",
+          "bbox": {
+            "minX": 282.65,
+            "maxX": 514.28,
+            "minY": 46.125,
+            "maxY": 411.575,
+            "width": 231.63,
+            "height": 365.45
+          },
+          "width": 643,
+          "height": 1015
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "textRows": [
+        {
+          "text": "19",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "大班楼",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "2 3/F, The Wellington, 198",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Wellington Street, Central",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "中環威靈頓街",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "198",
+          "x": 101.78,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號",
+          "x": 120.86,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "The",
+          "x": 134.06,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "Wellington31",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "The Chairman is a Cantonese restaurant that aims to serve original and traditional flavors. All of the chickens and",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "pigs served are locally raised in the New Territories. In 2017, this restaurant was named one of Asia's Best 50",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "Restaurants.",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Stir",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 114.26,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "Fry",
+          "x": 119.54,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 28,
+          "fileName": "page-028-img-01.png",
+          "url": "/openrice-photos/page-028-img-01.png",
+          "objId": "img_p27_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 329.6,
+            "minY": 547.03,
+            "maxY": 784.02,
+            "width": 293.6,
+            "height": 236.99
+          },
+          "width": 815,
+          "height": 658
+        },
+        {
+          "page": 28,
+          "fileName": "page-028-img-02.png",
+          "url": "/openrice-photos/page-028-img-02.png",
+          "objId": "img_p27_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 233.8,
+            "minY": 46.047,
+            "maxY": 364.64700000000005,
+            "width": 197.8,
+            "height": 318.6
+          },
+          "width": 606,
+          "height": 976
+        },
+        {
+          "page": 28,
+          "fileName": "page-028-img-03.png",
+          "url": "/openrice-photos/page-028-img-03.png",
+          "objId": "img_p27_3",
+          "bbox": {
+            "minX": 234,
+            "maxX": 425.99,
+            "minY": 46.001,
+            "maxY": 355.251,
+            "width": 191.99,
+            "height": 309.25
+          },
+          "width": 591,
+          "height": 952
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "20",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "都爹利会馆",
+          "x": 52.32,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "3/F, 1 Duddell Street, Central",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "中環都爹利街",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 101.78,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "號",
+          "x": 109.82,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "3",
+          "x": 123.02,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 131.18,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Situated on the historic Duddell Street, in the heart of Hong Kong's Central district, Duddell's beautiful space is",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "newly reimagined in 2025 by Andr",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "é",
+          "x": 190.61,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "Fu Studio. It exudes the ambience of a 1920s Guangdong art collector's private",
+          "x": 201.17,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "mansion, one that houses a MICHELIN",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 208.73,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "starred restaurant. At Duddell's, one can enjoy an authentic Cantonese",
+          "x": 213.89,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "journey guided by Executive Chef Chan Yau Leung, with a focus on revi",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "ving \"Forgotten Flavours\" and nearly",
+          "x": 355.87,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 519.94,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "lost",
+          "x": 525.22,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "techniques through a refined menu.",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 29,
+          "fileName": "page-029-img-01.png",
+          "url": "/openrice-photos/page-029-img-01.png",
+          "objId": "img_p28_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 300.8,
+            "minY": 453.47,
+            "maxY": 784.47,
+            "width": 264.8,
+            "height": 331
+          },
+          "width": 735,
+          "height": 919
+        },
+        {
+          "page": 29,
+          "fileName": "page-029-img-02.png",
+          "url": "/openrice-photos/page-029-img-02.png",
+          "objId": "img_p28_2",
+          "bbox": {
+            "minX": 301.5,
+            "maxX": 523,
+            "minY": 453.31,
+            "maxY": 784.47,
+            "width": 221.5,
+            "height": 331.16
+          },
+          "width": 678,
+          "height": 1015
+        },
+        {
+          "page": 29,
+          "fileName": "page-029-img-03.png",
+          "url": "/openrice-photos/page-029-img-03.png",
+          "objId": "img_p28_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 375.94,
+            "minY": 172.92,
+            "maxY": 424.91999999999996,
+            "width": 339.94,
+            "height": 251.99999999999997
+          },
+          "width": 1277,
+          "height": 946
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "textRows": [
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Stir",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 114.26,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "Fry",
+          "x": 119.54,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 30,
+          "fileName": "page-030-img-01.png",
+          "url": "/openrice-photos/page-030-img-01.png",
+          "objId": "img_p29_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 247.3,
+            "minY": 417.29,
+            "maxY": 757.8000305180001,
+            "width": 211.3,
+            "height": 340.51003051800006
+          },
+          "width": 647,
+          "height": 1043
+        },
+        {
+          "page": 30,
+          "fileName": "page-030-img-02.png",
+          "url": "/openrice-photos/page-030-img-02.png",
+          "objId": "img_p29_2",
+          "bbox": {
+            "minX": 247.5,
+            "maxX": 458.05,
+            "minY": 417.25,
+            "maxY": 756.55,
+            "width": 210.55,
+            "height": 339.29999999999995
+          },
+          "width": 647,
+          "height": 1043
+        },
+        {
+          "page": 30,
+          "fileName": "page-030-img-03.png",
+          "url": "/openrice-photos/page-030-img-03.png",
+          "objId": "img_p29_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 326.47,
+            "minY": 232.5,
+            "maxY": 396.55,
+            "width": 290.47,
+            "height": 164.05
+          },
+          "width": 806,
+          "height": 455
+        },
+        {
+          "page": 30,
+          "fileName": "page-030-img-04.png",
+          "url": "/openrice-photos/page-030-img-04.png",
+          "objId": "img_p29_4",
+          "bbox": {
+            "minX": 36,
+            "maxX": 329.33,
+            "minY": 41.851,
+            "maxY": 228.401,
+            "width": 293.33,
+            "height": 186.55
+          },
+          "width": 948,
+          "height": 603
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "textRows": [
+        {
+          "text": "21",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "一乐烧鹅",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 34",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 68.424,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "38 Stanley Street, Central",
+          "x": 73.704,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "中環士丹利街",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "34",
+          "x": 101.78,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 112.82,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "38",
+          "x": 118.1,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 131.66,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Yat Lok Restaurant is a Hong Kong",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 192.17,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "style restaurant that offers a great variety of roast meat, noodles, congee and",
+          "x": 197.45,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "rice dishes. The food here is prepared on a made",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 256.85,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "to",
+          "x": 262.13,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 271.37,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "order basis and they are famous for their delicious roast",
+          "x": 276.53,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "goose.",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Chinese BBQ / Tea Restaurant",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 31,
+          "fileName": "page-031-img-01.png",
+          "url": "/openrice-photos/page-031-img-01.png",
+          "objId": "img_p30_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 246.45,
+            "minY": 509.74,
+            "maxY": 790.1700000000001,
+            "width": 210.45,
+            "height": 280.43000000000006
+          },
+          "width": 584,
+          "height": 778
+        },
+        {
+          "page": 31,
+          "fileName": "page-031-img-02.png",
+          "url": "/openrice-photos/page-031-img-02.png",
+          "objId": "img_p30_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 238.82,
+            "minY": 41.976,
+            "maxY": 368.826,
+            "width": 202.82,
+            "height": 326.85
+          },
+          "width": 624,
+          "height": 1005
+        },
+        {
+          "page": 31,
+          "fileName": "page-031-img-03.png",
+          "url": "/openrice-photos/page-031-img-03.png",
+          "objId": "img_p30_3",
+          "bbox": {
+            "minX": 238.85,
+            "maxX": 442,
+            "minY": 41.862,
+            "maxY": 367.97200000000004,
+            "width": 203.15,
+            "height": 326.11
+          },
+          "width": 627,
+          "height": 1007
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "22",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "彭庆记食家",
+          "x": 52.32,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 25 Yik Yam Street, Happy Valley",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "跑馬地奕蔭街",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "25",
+          "x": 101.78,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 115.46,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "Pang's Kitchen is renowned for different styles of stir",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 271.37,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "fry dishes, especially the ginger and lettuce fish belly pot,",
+          "x": 276.65,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "famous for its strong taste and ingredients.",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Noodles/Rice Noodles / Tea Restaurant / Salt & Sugar Reduction Restaurant",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 32,
+          "fileName": "page-032-img-01.png",
+          "url": "/openrice-photos/page-032-img-01.png",
+          "objId": "img_p31_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 384.07,
+            "minY": 527.27,
+            "maxY": 788.22,
+            "width": 348.07,
+            "height": 260.95000000000005
+          },
+          "width": 1274,
+          "height": 955
+        },
+        {
+          "page": 32,
+          "fileName": "page-032-img-02.png",
+          "url": "/openrice-photos/page-032-img-02.png",
+          "objId": "img_p31_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 558.8,
+            "minY": 187.27,
+            "maxY": 504.72,
+            "width": 522.8,
+            "height": 317.45000000000005
+          },
+          "width": 1274,
+          "height": 774
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 33,
+          "fileName": "page-033-img-01.png",
+          "url": "/openrice-photos/page-033-img-01.png",
+          "objId": "img_p32_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 270.14,
+            "minY": 420.9,
+            "maxY": 800.55,
+            "width": 234.14,
+            "height": 379.65
+          },
+          "width": 650,
+          "height": 1054
+        },
+        {
+          "page": 33,
+          "fileName": "page-033-img-02.png",
+          "url": "/openrice-photos/page-033-img-02.png",
+          "objId": "img_p32_2",
+          "bbox": {
+            "minX": 270.15,
+            "maxX": 505.99,
+            "minY": 420.9,
+            "maxY": 800.95,
+            "width": 235.84000000000003,
+            "height": 380.05000000000007
+          },
+          "width": 730,
+          "height": 1173
+        },
+        {
+          "page": 33,
+          "fileName": "page-033-img-03.png",
+          "url": "/openrice-photos/page-033-img-03.png",
+          "objId": "img_p32_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 288.9,
+            "minY": 49.657,
+            "maxY": 389.67699999999996,
+            "width": 252.89999999999998,
+            "height": 340.02
+          },
+          "width": 702,
+          "height": 944
+        },
+        {
+          "page": 33,
+          "fileName": "page-033-img-04.png",
+          "url": "/openrice-photos/page-033-img-04.png",
+          "objId": "img_p32_4",
+          "bbox": {
+            "minX": 289.5,
+            "maxX": 547.4,
+            "minY": 49.236,
+            "maxY": 392.676,
+            "width": 257.9,
+            "height": 343.44
+          },
+          "width": 792,
+          "height": 1054
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "textRows": [
+        {
+          "text": "23",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "兴记猪什专门店",
+          "x": 52.32,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 30, G/F, Manhattan Plaza",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 174.98,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "23 Sai Ching Street, Yuen Long",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "元朗西菁街",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "23",
+          "x": 91.224,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號富達廣場地下",
+          "x": 104.9,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "30",
+          "x": 181.1,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 194.69,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 34,
+          "fileName": "page-034-img-01.png",
+          "url": "/openrice-photos/page-034-img-01.png",
+          "objId": "img_p33_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 402,
+            "minY": 543.62,
+            "maxY": 787.77,
+            "width": 366,
+            "height": 244.14999999999998
+          },
+          "width": 1270,
+          "height": 847
+        },
+        {
+          "page": 34,
+          "fileName": "page-034-img-02.png",
+          "url": "/openrice-photos/page-034-img-02.png",
+          "objId": "img_p33_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 270.14,
+            "minY": 48.075,
+            "maxY": 424.925,
+            "width": 234.14,
+            "height": 376.85
+          },
+          "width": 650,
+          "height": 1046
+        },
+        {
+          "page": 34,
+          "fileName": "page-034-img-03.png",
+          "url": "/openrice-photos/page-034-img-03.png",
+          "objId": "img_p33_3",
+          "bbox": {
+            "minX": 270.15,
+            "maxX": 503.53,
+            "minY": 48.075,
+            "maxY": 424.97499999999997,
+            "width": 233.38,
+            "height": 376.9
+          },
+          "width": 648,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "24",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "大滚友",
+          "x": 52.32,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "Shop G4",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 74.904,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "G5, G/F, Ho Shun Lee Building Block 1, 9 Fung Yau Street South, Yuen Long",
+          "x": 80.064,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "元朗鳳攸南街",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "9",
+          "x": 101.78,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號好順利大廈一座地下",
+          "x": 109.82,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "G4",
+          "x": 217.49,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 230.21,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "G5",
+          "x": 235.37,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 250.73,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "This hot pot restaurant's decoration is classic. It mixes maw and chicken together for the soup base. It offers variety",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "of seafood, leatballs and beans products.",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Hot Pot",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 35,
+          "fileName": "page-035-img-01.png",
+          "url": "/openrice-photos/page-035-img-01.png",
+          "objId": "img_p34_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 270.8,
+            "minY": 468.8,
+            "maxY": 781.12,
+            "width": 234.8,
+            "height": 312.32
+          },
+          "width": 652,
+          "height": 867
+        },
+        {
+          "page": 35,
+          "fileName": "page-035-img-02.png",
+          "url": "/openrice-photos/page-035-img-02.png",
+          "objId": "img_p34_2",
+          "bbox": {
+            "minX": 271.5,
+            "maxX": 507.62,
+            "minY": 468.77,
+            "maxY": 784.27,
+            "width": 236.12,
+            "height": 315.5
+          },
+          "width": 655,
+          "height": 876
+        },
+        {
+          "page": 35,
+          "fileName": "page-035-img-03.png",
+          "url": "/openrice-photos/page-035-img-03.png",
+          "objId": "img_p34_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 420.03,
+            "minY": 155.57,
+            "maxY": 442.92,
+            "width": 384.03,
+            "height": 287.35
+          },
+          "width": 1271,
+          "height": 950
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "25",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "陳儀興玫瑰餐廳",
+          "x": 52.32,
+          "y": 77.304,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 36,
+          "fileName": "page-036-img-01.png",
+          "url": "/openrice-photos/page-036-img-01.png",
+          "objId": "img_p35_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 245.7,
+            "minY": 448.87,
+            "maxY": 788.62,
+            "width": 209.7,
+            "height": 339.75
+          },
+          "width": 644,
+          "height": 1043
+        },
+        {
+          "page": 36,
+          "fileName": "page-036-img-02.png",
+          "url": "/openrice-photos/page-036-img-02.png",
+          "objId": "img_p35_2",
+          "bbox": {
+            "minX": 246,
+            "maxX": 456.3,
+            "minY": 448.93,
+            "maxY": 786.3299999999999,
+            "width": 210.3,
+            "height": 337.3999999999999
+          },
+          "width": 638,
+          "height": 1023
+        },
+        {
+          "page": 36,
+          "fileName": "page-036-img-03.png",
+          "url": "/openrice-photos/page-036-img-03.png",
+          "objId": "img_p35_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 297.68,
+            "minY": 92.875,
+            "maxY": 427.175,
+            "width": 261.68,
+            "height": 334.3
+          },
+          "width": 726,
+          "height": 928
+        },
+        {
+          "page": 36,
+          "fileName": "page-036-img-04.png",
+          "url": "/openrice-photos/page-036-img-04.png",
+          "objId": "img_p35_4",
+          "bbox": {
+            "minX": 297.7,
+            "maxX": 551.5,
+            "minY": 92.692,
+            "maxY": 425.722,
+            "width": 253.8,
+            "height": 333.03
+          },
+          "width": 704,
+          "height": 925
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 576.55,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, Victorious Factory Building",
+          "x": 36,
+          "y": 560.95,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 177.38,
+          "y": 560.95,
+          "h": 10.56
+        },
+        {
+          "text": "33A",
+          "x": 36,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 53.76,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "37A Tseuk Luk Street, San",
+          "x": 59.064,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "Po Kong",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "新蒲崗爵祿街",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "33A",
+          "x": 101.78,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 119.54,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "37A",
+          "x": 124.82,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "號百勝工",
+          "x": 145.1,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "廠大廈地舗",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "Apart from different kinds of Chinese dishes, this restaurant also provides a variety of chicken pot, such as coconut",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "chicken, Chongqing chicken, and Shaoxing Wine chicken pot.",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style / Hot Pot",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 37,
+          "fileName": "page-037-img-01.png",
+          "url": "/openrice-photos/page-037-img-01.png",
+          "objId": "img_p36_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 471.72,
+            "minY": 590.02,
+            "maxY": 803.42,
+            "width": 435.72,
+            "height": 213.39999999999998
+          },
+          "width": 1268,
+          "height": 621
+        },
+        {
+          "page": 37,
+          "fileName": "page-037-img-02.png",
+          "url": "/openrice-photos/page-037-img-02.png",
+          "objId": "img_p36_3",
+          "bbox": {
+            "minX": 265.75,
+            "maxX": 493.95,
+            "minY": 43.904,
+            "maxY": 413.624,
+            "width": 228.2,
+            "height": 369.72
+          },
+          "width": 633,
+          "height": 1027
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "textRows": [
+        {
+          "text": "美食",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "26",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "船涡",
+          "x": 52.32,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Boat Boat Steam",
+          "x": 76.104,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 186.5,
+          "h": 10.56
+        },
+        {
+          "text": "3/F, Way On Commercial",
+          "x": 36,
+          "y": 170.9,
+          "h": 10.56
+        },
+        {
+          "text": "Building, 500 Jaffe Road,",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "Causeway Bay",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "銅鑼灣謝斐道",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "500",
+          "x": 101.78,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "號維安商業大廈",
+          "x": 120.98,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "3",
+          "x": 197.21,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 205.25,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "It specializes in steam hot pot and high quality seafood. It provides a la carte and set menu. Also, you can follow the",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "cooking instructions to ensure you have a good experience in a privacy dining space, as all the seats are set up with",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "curtains.",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Hot Pot / Seafood / Steam Hotpot",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 38,
+          "fileName": "page-038-img-01.png",
+          "url": "/openrice-photos/page-038-img-01.png",
+          "objId": "img_p37_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 268.1,
+            "minY": 480.72,
+            "maxY": 788.07,
+            "width": 232.10000000000002,
+            "height": 307.35
+          },
+          "width": 644,
+          "height": 853
+        },
+        {
+          "page": 38,
+          "fileName": "page-038-img-02.png",
+          "url": "/openrice-photos/page-038-img-02.png",
+          "objId": "img_p37_2",
+          "bbox": {
+            "minX": 268.5,
+            "maxX": 496.5,
+            "minY": 481.12,
+            "maxY": 786.5699999999999,
+            "width": 228,
+            "height": 305.44999999999993
+          },
+          "width": 633,
+          "height": 848
+        },
+        {
+          "page": 38,
+          "fileName": "page-038-img-03.png",
+          "url": "/openrice-photos/page-038-img-03.png",
+          "objId": "img_p37_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 285.8,
+            "minY": 205.57,
+            "maxY": 455.37,
+            "width": 249.8,
+            "height": 249.8
+          },
+          "width": 693,
+          "height": 693
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "27",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "鋿晶馆",
+          "x": 52.32,
+          "y": 61.704,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 39,
+          "fileName": "page-039-img-01.png",
+          "url": "/openrice-photos/page-039-img-01.png",
+          "objId": "img_p38_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 264.9,
+            "minY": 418.92,
+            "maxY": 787.62,
+            "width": 228.89999999999998,
+            "height": 368.7
+          },
+          "width": 701,
+          "height": 1130
+        },
+        {
+          "page": 39,
+          "fileName": "page-039-img-02.png",
+          "url": "/openrice-photos/page-039-img-02.png",
+          "objId": "img_p38_2",
+          "bbox": {
+            "minX": 265.5,
+            "maxX": 494.1,
+            "minY": 418.94,
+            "maxY": 787.62,
+            "width": 228.60000000000002,
+            "height": 368.68
+          },
+          "width": 704,
+          "height": 1134
+        },
+        {
+          "page": 39,
+          "fileName": "page-039-img-03.png",
+          "url": "/openrice-photos/page-039-img-03.png",
+          "objId": "img_p38_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 277.4,
+            "minY": 75.327,
+            "maxY": 396.427,
+            "width": 241.39999999999998,
+            "height": 321.1
+          },
+          "width": 670,
+          "height": 891
+        },
+        {
+          "page": 39,
+          "fileName": "page-039-img-04.png",
+          "url": "/openrice-photos/page-039-img-04.png",
+          "objId": "img_p38_4",
+          "bbox": {
+            "minX": 277.5,
+            "maxX": 533.2,
+            "minY": 76.001,
+            "maxY": 397.77099999999996,
+            "width": 255.70000000000005,
+            "height": 321.77
+          },
+          "width": 710,
+          "height": 893
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 726 Nathan Road, Mong Kok",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "旺角彌敦道",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "726",
+          "x": 91.224,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號地舖",
+          "x": 110.42,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong / Hong Kong Style / Soup / Dim Sum / Dim Sum Restaurant",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 40,
+          "fileName": "page-040-img-01.png",
+          "url": "/openrice-photos/page-040-img-01.png",
+          "objId": "img_p39_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 399.09,
+            "minY": 529.57,
+            "maxY": 801.47,
+            "width": 363.09,
+            "height": 271.9
+          },
+          "width": 1266,
+          "height": 949
+        },
+        {
+          "page": 40,
+          "fileName": "page-040-img-02.png",
+          "url": "/openrice-photos/page-040-img-02.png",
+          "objId": "img_p39_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 261.35,
+            "minY": 62.128,
+            "maxY": 424.828,
+            "width": 225.35000000000002,
+            "height": 362.7
+          },
+          "width": 625,
+          "height": 1007
+        },
+        {
+          "page": 40,
+          "fileName": "page-040-img-03.png",
+          "url": "/openrice-photos/page-040-img-03.png",
+          "objId": "img_p39_3",
+          "bbox": {
+            "minX": 261.35,
+            "maxX": 489.6,
+            "minY": 61.867,
+            "maxY": 426.827,
+            "width": 228.25,
+            "height": 364.96
+          },
+          "width": 634,
+          "height": 1013
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "textRows": [
+        {
+          "text": "28",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "妈咪鸡蛋仔",
+          "x": 52.32,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 1A15, G/F, Whampoa",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Estate, 99 Dock Street, Hung Hom",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "紅磡船澳街",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "99",
+          "x": 91.224,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "號黃埔新邨地下",
+          "x": 104.9,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "1A15",
+          "x": 183.74,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Snack Shop & Deli",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 41,
+          "fileName": "page-041-img-01.png",
+          "url": "/openrice-photos/page-041-img-01.png",
+          "objId": "img_p40_1",
+          "bbox": {
+            "minX": 35.99999999999997,
+            "maxX": 283.27,
+            "minY": 485.95,
+            "maxY": 798.3,
+            "width": 247.27,
+            "height": 312.34999999999997
+          },
+          "width": 686,
+          "height": 867
+        },
+        {
+          "page": 41,
+          "fileName": "page-041-img-02.png",
+          "url": "/openrice-photos/page-041-img-02.png",
+          "objId": "img_p40_2",
+          "bbox": {
+            "minX": 283.5,
+            "maxX": 524.5,
+            "minY": 485.99,
+            "maxY": 796.75,
+            "width": 241,
+            "height": 310.76
+          },
+          "width": 669,
+          "height": 863
+        },
+        {
+          "page": 41,
+          "fileName": "page-041-img-03.png",
+          "url": "/openrice-photos/page-041-img-03.png",
+          "objId": "img_p40_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 440.44,
+            "minY": 155.97,
+            "maxY": 458.22,
+            "width": 404.44,
+            "height": 302.25
+          },
+          "width": 1272,
+          "height": 950
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "29",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        },
+        {
+          "text": "龙凤店",
+          "x": 52.32,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 42,
+          "fileName": "page-042-img-01.png",
+          "url": "/openrice-photos/page-042-img-01.png",
+          "objId": "img_p41_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 275.14,
+            "minY": 417.42,
+            "maxY": 803.62,
+            "width": 239.14,
+            "height": 386.2
+          },
+          "width": 667,
+          "height": 1078
+        },
+        {
+          "page": 42,
+          "fileName": "page-042-img-02.png",
+          "url": "/openrice-photos/page-042-img-02.png",
+          "objId": "img_p41_2",
+          "bbox": {
+            "minX": 275.15,
+            "maxX": 514.9,
+            "minY": 417.76,
+            "maxY": 804.4200000000001,
+            "width": 239.75,
+            "height": 386.6600000000001
+          },
+          "width": 665,
+          "height": 1074
+        },
+        {
+          "page": 42,
+          "fileName": "page-042-img-03.png",
+          "url": "/openrice-photos/page-042-img-03.png",
+          "objId": "img_p41_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 336.3,
+            "minY": 58.452,
+            "maxY": 399.002,
+            "width": 300.3,
+            "height": 340.55
+          },
+          "width": 1080,
+          "height": 1225
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 3B, G/F, Kam Wing Mansion",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 187.97,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "66 Shui Che Kwun Street, Yuen Long",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "元朗水車館街",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "66",
+          "x": 101.78,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "號錦榮大廈地下",
+          "x": 115.46,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "This snack shop is opened in Yuen Long and popular among the neighbours there. They are famous for their egg",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "sandwiches, which add parma ham, crab meat, etc. into the fried eggs and make it become special from other",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "restaurants.",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Sandwich / Snack Shop & Deli",
+          "x": 36,
+          "y": 373.73,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 358.13,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 43,
+          "fileName": "page-043-img-01.png",
+          "url": "/openrice-photos/page-043-img-01.png",
+          "objId": "img_p42_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 252.9,
+            "minY": 513.73,
+            "maxY": 801.72,
+            "width": 216.9,
+            "height": 287.99
+          },
+          "width": 602,
+          "height": 799
+        },
+        {
+          "page": 43,
+          "fileName": "page-043-img-02.png",
+          "url": "/openrice-photos/page-043-img-02.png",
+          "objId": "img_p42_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 226.94,
+            "minY": 44.226,
+            "maxY": 350.826,
+            "width": 190.94,
+            "height": 306.6
+          },
+          "width": 585,
+          "height": 940
+        },
+        {
+          "page": 43,
+          "fileName": "page-043-img-03.png",
+          "url": "/openrice-photos/page-043-img-03.png",
+          "objId": "img_p42_3",
+          "bbox": {
+            "minX": 226.95,
+            "maxX": 413.45,
+            "minY": 44.228,
+            "maxY": 345.978,
+            "width": 186.5,
+            "height": 301.75
+          },
+          "width": 573,
+          "height": 926
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "30",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "大澳饼店",
+          "x": 52.32,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "G/F, 66 Kat Hing Street, TaiO",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "大澳吉慶街",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "66",
+          "x": 91.224,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "號地舗",
+          "x": 104.9,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "Hong Kong Style / Bakery",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 44,
+          "fileName": "page-044-img-01.png",
+          "url": "/openrice-photos/page-044-img-01.png",
+          "objId": "img_p43_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 296.1,
+            "minY": 527.8,
+            "maxY": 788.22,
+            "width": 260.1,
+            "height": 260.4200000000001
+          },
+          "width": 722,
+          "height": 723
+        },
+        {
+          "page": 44,
+          "fileName": "page-044-img-02.png",
+          "url": "/openrice-photos/page-044-img-02.png",
+          "objId": "img_p43_2",
+          "bbox": {
+            "minX": 296.1,
+            "maxX": 493.15000000000003,
+            "minY": 527.75,
+            "maxY": 788.22,
+            "width": 197.05,
+            "height": 260.47
+          },
+          "width": 605,
+          "height": 799
+        },
+        {
+          "page": 44,
+          "fileName": "page-044-img-03.png",
+          "url": "/openrice-photos/page-044-img-03.png",
+          "objId": "img_p43_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 339.1,
+            "minY": 138.08,
+            "maxY": 506.82000000000005,
+            "width": 303.1,
+            "height": 368.74
+          },
+          "width": 1080,
+          "height": 1314
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "31",
+          "x": 36,
+          "y": 233.33,
+          "h": 10.56
+        },
+        {
+          "text": "申子居酒屋",
+          "x": 52.32,
+          "y": 233.33,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 45,
+          "fileName": "page-045-img-01.png",
+          "url": "/openrice-photos/page-045-img-01.png",
+          "objId": "img_p44_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 226.2,
+            "minY": 496.87,
+            "maxY": 802.99,
+            "width": 190.2,
+            "height": 306.12
+          },
+          "width": 582,
+          "height": 937
+        },
+        {
+          "page": 45,
+          "fileName": "page-045-img-02.png",
+          "url": "/openrice-photos/page-045-img-02.png",
+          "objId": "img_p44_2",
+          "bbox": {
+            "minX": 226.5,
+            "maxX": 416.19,
+            "minY": 496.85,
+            "maxY": 801.6,
+            "width": 189.69,
+            "height": 304.75
+          },
+          "width": 582,
+          "height": 936
+        },
+        {
+          "page": 45,
+          "fileName": "page-045-img-03.png",
+          "url": "/openrice-photos/page-045-img-03.png",
+          "objId": "img_p44_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 248.85,
+            "minY": 251.59,
+            "maxY": 471.58000000000004,
+            "width": 212.85,
+            "height": 219.99000000000004
+          },
+          "width": 591,
+          "height": 611
+        },
+        {
+          "page": 45,
+          "fileName": "page-045-img-04.png",
+          "url": "/openrice-photos/page-045-img-04.png",
+          "objId": "img_p44_4",
+          "bbox": {
+            "minX": 36,
+            "maxX": 365.56,
+            "minY": 42.226,
+            "maxY": 228.126,
+            "width": 329.56,
+            "height": 185.9
+          },
+          "width": 915,
+          "height": 516
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 1, G/F, Ngai Hing Mansion, 74",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 197.33,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "76 Hak Po Street, Mong Kok",
+          "x": 202.61,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "旺角黑布街",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "74",
+          "x": 91.224,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 102.26,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "76",
+          "x": 107.54,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "號藝興大廈地下",
+          "x": 121.22,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 197.45,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "號舗",
+          "x": 205.49,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "A comfortable Japanese wooden decorated restaurant. It provides lots of Japanese dishes from side dishes, skewers",
+          "x": 36,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "and fired to the shabu shabu. The Hiroshima oyster pot is famous and the taste of Japanese miso is rich.",
+          "x": 36,
+          "y": 732.58,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "Japanese / Wine / Sushi/Sashimi / Skewer / Izakaya",
+          "x": 36,
+          "y": 701.38,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 685.78,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 342.53,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 46,
+          "fileName": "page-046-img-01.png",
+          "url": "/openrice-photos/page-046-img-01.png",
+          "objId": "img_p45_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 239.45,
+            "minY": 354.25,
+            "maxY": 680.4,
+            "width": 203.45,
+            "height": 326.15
+          },
+          "width": 625,
+          "height": 1000
+        },
+        {
+          "page": 46,
+          "fileName": "page-046-img-02.png",
+          "url": "/openrice-photos/page-046-img-02.png",
+          "objId": "img_p45_2",
+          "bbox": {
+            "minX": 240,
+            "maxX": 440,
+            "minY": 354.25,
+            "maxY": 675.390030518,
+            "width": 200,
+            "height": 321.140030518
+          },
+          "width": 614,
+          "height": 986
+        },
+        {
+          "page": 46,
+          "fileName": "page-046-img-03.png",
+          "url": "/openrice-photos/page-046-img-03.png",
+          "objId": "img_p45_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 230.05,
+            "minY": 45.056,
+            "maxY": 334.476,
+            "width": 194.05,
+            "height": 289.42
+          },
+          "width": 598,
+          "height": 893
+        },
+        {
+          "page": 46,
+          "fileName": "page-046-img-04.png",
+          "url": "/openrice-photos/page-046-img-04.png",
+          "objId": "img_p45_4",
+          "bbox": {
+            "minX": 230.05,
+            "maxX": 420.53,
+            "minY": 44.976,
+            "maxY": 331.626,
+            "width": 190.47999999999996,
+            "height": 286.65
+          },
+          "width": 588,
+          "height": 885
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "textRows": [
+        {
+          "text": "32",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "Yadllie Plate",
+          "x": 49.92,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "11/F, CTMA Centre, 1N Sai Yeung Choi Street South, Mong Kok",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "旺角西洋菜南街",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "1N",
+          "x": 112.22,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號兆萬中心",
+          "x": 128.06,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "11",
+          "x": 183.14,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "It is famous for its fried chicken, which is imported from Korea directly. And the sauce is made from the Jeju",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "vegetables and twenty types of natural ingredients.",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "Korean / Korean Fried Chicken",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 389.33,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 47,
+          "fileName": "page-047-img-01.png",
+          "url": "/openrice-photos/page-047-img-01.png",
+          "objId": "img_p46_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 237.8,
+            "minY": 516.23,
+            "maxY": 784.1700000000001,
+            "width": 201.8,
+            "height": 267.94000000000005
+          },
+          "width": 617,
+          "height": 819
+        },
+        {
+          "page": 47,
+          "fileName": "page-047-img-02.png",
+          "url": "/openrice-photos/page-047-img-02.png",
+          "objId": "img_p46_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 247.6,
+            "minY": 43.394,
+            "maxY": 382.874,
+            "width": 211.6,
+            "height": 339.48
+          },
+          "width": 651,
+          "height": 1045
+        },
+        {
+          "page": 47,
+          "fileName": "page-047-img-03.png",
+          "url": "/openrice-photos/page-047-img-03.png",
+          "objId": "img_p46_3",
+          "bbox": {
+            "minX": 247.6,
+            "maxX": 456.7,
+            "minY": 43.386,
+            "maxY": 381.076,
+            "width": 209.1,
+            "height": 337.69
+          },
+          "width": 646,
+          "height": 1043
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "33 Tamarind",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "Shop K&L, G/F, Witty Commercial",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "Building, 1 Tung Choi Street,",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "Mong Kok",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "旺角通菜街",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 91.224,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "號威達商業大廈地下",
+          "x": 99.384,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Thai",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 48,
+          "fileName": "page-048-img-01.png",
+          "url": "/openrice-photos/page-048-img-01.png",
+          "objId": "img_p47_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 280.55,
+            "minY": 454,
+            "maxY": 780.45,
+            "width": 244.55,
+            "height": 326.45000000000005
+          },
+          "width": 679,
+          "height": 906
+        },
+        {
+          "page": 48,
+          "fileName": "page-048-img-02.png",
+          "url": "/openrice-photos/page-048-img-02.png",
+          "objId": "img_p47_2",
+          "bbox": {
+            "minX": 280.55,
+            "maxX": 528.6,
+            "minY": 453.46,
+            "maxY": 784,
+            "width": 248.05,
+            "height": 330.54
+          },
+          "width": 689,
+          "height": 918
+        },
+        {
+          "page": 48,
+          "fileName": "page-048-img-03.png",
+          "url": "/openrice-photos/page-048-img-03.png",
+          "objId": "img_p47_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 437.9,
+            "minY": 152.94,
+            "maxY": 429.87,
+            "width": 401.9,
+            "height": 276.93
+          },
+          "width": 1273,
+          "height": 877
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "34",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "Paradise Classic",
+          "x": 49.92,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "Shop UG09, UG/F, Olympian City 2, 18 Hoi Ting Road, Tai Kok Tsui",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 49,
+          "fileName": "page-049-img-02.png",
+          "url": "/openrice-photos/page-049-img-02.png",
+          "objId": "img_p48_2",
+          "bbox": {
+            "minX": 247.8,
+            "maxX": 460.65,
+            "minY": 439.83,
+            "maxY": 782.6800000000001,
+            "width": 212.84999999999997,
+            "height": 342.8500000000001
+          },
+          "width": 653,
+          "height": 1051
+        },
+        {
+          "page": 49,
+          "fileName": "page-049-img-01.png",
+          "url": "/openrice-photos/page-049-img-01.png",
+          "objId": "img_p48_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 247.8,
+            "minY": 439.22,
+            "maxY": 780.37,
+            "width": 211.8,
+            "height": 341.15
+          },
+          "width": 649,
+          "height": 1045
+        },
+        {
+          "page": 49,
+          "fileName": "page-049-img-03.png",
+          "url": "/openrice-photos/page-049-img-03.png",
+          "objId": "img_p48_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 270.74,
+            "minY": 95.3,
+            "maxY": 408.95,
+            "width": 234.74,
+            "height": 313.65
+          },
+          "width": 652,
+          "height": 871
+        },
+        {
+          "page": 49,
+          "fileName": "page-049-img-04.png",
+          "url": "/openrice-photos/page-049-img-04.png",
+          "objId": "img_p48_4",
+          "bbox": {
+            "minX": 270.75,
+            "maxX": 504.25,
+            "minY": 95.32,
+            "maxY": 406.2,
+            "width": 233.5,
+            "height": 310.88
+          },
+          "width": 648,
+          "height": 863
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "textRows": [
+        {
+          "text": "大角咀海庭道",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "18",
+          "x": 101.78,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "號奧海城二期",
+          "x": 115.46,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "UG",
+          "x": 180.98,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 197.81,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "UG09",
+          "x": 210.89,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 238.73,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "It mainly offers Singaporean cuisine, and crossover with the style of Malaysia, Thailand and Indonesia, to make the",
+          "x": 36,
+          "y": 779.4,
+          "h": 10.56
+        },
+        {
+          "text": "traditional food in a modern way.",
+          "x": 36,
+          "y": 763.8,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 748.18,
+          "h": 10.56
+        },
+        {
+          "text": "Guangdong/ Singaporean / Seafood",
+          "x": 36,
+          "y": 732.58,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 716.98,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 295.73,
+          "h": 10.56
+        },
+        {
+          "text": "35 Grissini",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 50,
+          "fileName": "page-050-img-01.png",
+          "url": "/openrice-photos/page-050-img-01.png",
+          "objId": "img_p49_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 279.5,
+            "minY": 312.49,
+            "maxY": 706.77,
+            "width": 243.5,
+            "height": 394.28
+          },
+          "width": 676,
+          "height": 1095
+        },
+        {
+          "page": 50,
+          "fileName": "page-050-img-02.png",
+          "url": "/openrice-photos/page-050-img-02.png",
+          "objId": "img_p49_2",
+          "bbox": {
+            "minX": 279.5,
+            "maxX": 522.4,
+            "minY": 312.3,
+            "maxY": 704.27,
+            "width": 242.89999999999998,
+            "height": 391.96999999999997
+          },
+          "width": 674,
+          "height": 1088
+        },
+        {
+          "page": 50,
+          "fileName": "page-050-img-03.png",
+          "url": "/openrice-photos/page-050-img-03.png",
+          "objId": "img_p49_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 256.35,
+            "minY": 62.376,
+            "maxY": 284.57599999999996,
+            "width": 220.35000000000002,
+            "height": 222.19999999999996
+          },
+          "width": 612,
+          "height": 617
+        },
+        {
+          "page": 50,
+          "fileName": "page-050-img-04.png",
+          "url": "/openrice-photos/page-050-img-04.png",
+          "objId": "img_p49_4",
+          "bbox": {
+            "minX": 256.5,
+            "maxX": 553.21,
+            "minY": 62.376,
+            "maxY": 285.876,
+            "width": 296.71000000000004,
+            "height": 223.49999999999997
+          },
+          "width": 824,
+          "height": 620
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 560.95,
+          "h": 10.56
+        },
+        {
+          "text": "2/F, Grand Hyatt Hong Kong, 1",
+          "x": 36,
+          "y": 545.35,
+          "h": 10.56
+        },
+        {
+          "text": "Harbour Road, Wan Chai",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "灣仔港灣道",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "1",
+          "x": 91.224,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "號君悅酒店",
+          "x": 99.384,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "2",
+          "x": 154.46,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 162.62,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Grissini commands panoramic views of Victoria Harbour and adopts a contemporary interior design, providing a",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "relaxed and casual atmosphere for guests to enjoy authentic Italian cuisine. The signature grissini breadsticks are",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "served during lunch and dinner",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "accompanied by fragrant extra",
+          "x": 179.9,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 318.07,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "virgin olive oil and house",
+          "x": 323.35,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 435.91,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "blended balsamic glaze.",
+          "x": 441.1,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "Italian / Fine Dining / Hotel Restaurant",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "评价",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": ":",
+          "x": 57.12,
+          "y": 420.55,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 51,
+          "fileName": "page-051-img-01.png",
+          "url": "/openrice-photos/page-051-img-01.png",
+          "objId": "img_p50_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 409.7,
+            "minY": 572.47,
+            "maxY": 805.37,
+            "width": 373.7,
+            "height": 232.89999999999998
+          },
+          "width": 1368,
+          "height": 853
+        },
+        {
+          "page": 51,
+          "fileName": "page-051-img-02.png",
+          "url": "/openrice-photos/page-051-img-02.png",
+          "objId": "img_p50_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 259.5,
+            "minY": 48.531,
+            "maxY": 409.471,
+            "width": 223.5,
+            "height": 360.94
+          },
+          "width": 620,
+          "height": 1002
+        },
+        {
+          "page": 51,
+          "fileName": "page-051-img-03.png",
+          "url": "/openrice-photos/page-051-img-03.png",
+          "objId": "img_p50_3",
+          "bbox": {
+            "minX": 259.5,
+            "maxX": 482.35,
+            "minY": 48.002,
+            "maxY": 406.672,
+            "width": 222.85000000000002,
+            "height": 358.67
+          },
+          "width": 619,
+          "height": 996
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "36",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "Odelice",
+          "x": 49.92,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "！",
+          "x": 84.264,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "Shop L407,4/F, The ONE, 100",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "Nathan Road, Tsim Sha Tsui",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "尖沙咀彌敦道",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "100",
+          "x": 101.78,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號",
+          "x": 120.86,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "The ONE 4",
+          "x": 134.06,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "樓",
+          "x": 185.45,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "It is a Parisian bistro theme restaurant chain. The menu is diverse. It offers home",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 395.35,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "style French dishes which are",
+          "x": 400.63,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "inspired by traditional French recipes and Asian elements.",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "French / Western / Party Food",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 52,
+          "fileName": "page-052-img-01.png",
+          "url": "/openrice-photos/page-052-img-01.png",
+          "objId": "img_p51_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 269.83000000000004,
+            "minY": 470.27,
+            "maxY": 783.27,
+            "width": 233.83000000000004,
+            "height": 313
+          },
+          "width": 649,
+          "height": 869
+        },
+        {
+          "page": 52,
+          "fileName": "page-052-img-02.png",
+          "url": "/openrice-photos/page-052-img-02.png",
+          "objId": "img_p51_2",
+          "bbox": {
+            "minX": 270,
+            "maxX": 505,
+            "minY": 470.02,
+            "maxY": 781.77,
+            "width": 235,
+            "height": 311.75
+          },
+          "width": 652,
+          "height": 865
+        },
+        {
+          "page": 52,
+          "fileName": "page-052-img-03.png",
+          "url": "/openrice-photos/page-052-img-03.png",
+          "objId": "img_p51_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 404.72,
+            "minY": 168.27,
+            "maxY": 445.47,
+            "width": 368.72,
+            "height": 277.20000000000005
+          },
+          "width": 1271,
+          "height": 955
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        },
+        {
+          "text": "37",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "鱼事者",
+          "x": 52.32,
+          "y": 61.704,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 53,
+          "fileName": "page-053-img-01.png",
+          "url": "/openrice-photos/page-053-img-01.png",
+          "objId": "img_p52_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 264.5,
+            "minY": 419.03,
+            "maxY": 786.1199999999999,
+            "width": 228.5,
+            "height": 367.0899999999999
+          },
+          "width": 625,
+          "height": 1005
+        },
+        {
+          "page": 53,
+          "fileName": "page-053-img-02.png",
+          "url": "/openrice-photos/page-053-img-02.png",
+          "objId": "img_p52_2",
+          "bbox": {
+            "minX": 264.5,
+            "maxX": 493,
+            "minY": 418.89,
+            "maxY": 787.62,
+            "width": 228.5,
+            "height": 368.73
+          },
+          "width": 624,
+          "height": 1007
+        },
+        {
+          "page": 53,
+          "fileName": "page-053-img-03.png",
+          "url": "/openrice-photos/page-053-img-03.png",
+          "objId": "img_p52_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 279.35,
+            "minY": 74.403,
+            "maxY": 398.673,
+            "width": 243.35000000000002,
+            "height": 324.27
+          },
+          "width": 635,
+          "height": 847
+        },
+        {
+          "page": 53,
+          "fileName": "page-053-img-04.png",
+          "url": "/openrice-photos/page-053-img-04.png",
+          "objId": "img_p52_4",
+          "bbox": {
+            "minX": 279.35,
+            "maxX": 518.7,
+            "minY": 74.503,
+            "maxY": 396.873,
+            "width": 239.35000000000002,
+            "height": 322.37
+          },
+          "width": 664,
+          "height": 895
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "textRows": [
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 529.75,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 14, G/F, Victor Court, 14",
+          "x": 36,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 170.42,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "18",
+          "x": 175.7,
+          "y": 514.15,
+          "h": 10.56
+        },
+        {
+          "text": "Wang On Road, Fortress Hill, North Point",
+          "x": 36,
+          "y": 498.55,
+          "h": 10.56
+        },
+        {
+          "text": "北角炮台山宏安道",
+          "x": 36,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "14",
+          "x": 122.78,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 133.82,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "18",
+          "x": 139.1,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "號威德閣",
+          "x": 152.66,
+          "y": 482.95,
+          "h": 10.56
+        },
+        {
+          "text": "地下",
+          "x": 36,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "14",
+          "x": 59.784,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 73.344,
+          "y": 467.35,
+          "h": 10.56
+        },
+        {
+          "text": "「魚事者」猶如一位魚品魔術師，為傳統魚品注入嶄新元素、以創新手法製作出多元化的魚品輕食。",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        },
+        {
+          "text": "International / Food Stall Noodles / Noodles/ Rice Noodles",
+          "x": 36,
+          "y": 420.55,
+          "h": 10.56
+        },
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 404.95,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 54,
+          "fileName": "page-054-img-01.png",
+          "url": "/openrice-photos/page-054-img-01.png",
+          "objId": "img_p53_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 243.19,
+            "minY": 546.55,
+            "maxY": 800.0999999999999,
+            "width": 207.19,
+            "height": 253.54999999999995
+          },
+          "width": 575,
+          "height": 704
+        },
+        {
+          "page": 54,
+          "fileName": "page-054-img-02.png",
+          "url": "/openrice-photos/page-054-img-02.png",
+          "objId": "img_p53_2",
+          "bbox": {
+            "minX": 36,
+            "maxX": 254.4,
+            "minY": 43.217,
+            "maxY": 395.647,
+            "width": 218.4,
+            "height": 352.43
+          },
+          "width": 606,
+          "height": 978
+        },
+        {
+          "page": 54,
+          "fileName": "page-054-img-03.png",
+          "url": "/openrice-photos/page-054-img-03.png",
+          "objId": "img_p53_3",
+          "bbox": {
+            "minX": 255,
+            "maxX": 475.45,
+            "minY": 43.167,
+            "maxY": 398.697,
+            "width": 220.45,
+            "height": 355.53
+          },
+          "width": 612,
+          "height": 987
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "textRows": [
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "38",
+          "x": 36,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "Nonsense",
+          "x": 49.92,
+          "y": 451.75,
+          "h": 10.56
+        },
+        {
+          "text": "餐厅信息：",
+          "x": 36,
+          "y": 155.3,
+          "h": 10.56
+        },
+        {
+          "text": "Shop 4, G/F, Sanford Mansion",
+          "x": 36,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "，",
+          "x": 170.66,
+          "y": 139.7,
+          "h": 10.56
+        },
+        {
+          "text": "143",
+          "x": 36,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 52.56,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "155 Pak Tai Street, To Kwa Wan",
+          "x": 57.84,
+          "y": 124.1,
+          "h": 10.56
+        },
+        {
+          "text": "土瓜灣北帝街",
+          "x": 36,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "143",
+          "x": 101.78,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 118.34,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "155",
+          "x": 123.62,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號順輝大廈地下",
+          "x": 142.82,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "4",
+          "x": 219.05,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "號舖",
+          "x": 227.09,
+          "y": 108.5,
+          "h": 10.56
+        },
+        {
+          "text": "Located in To Kwa Wan, the restaurant has a bar that serves red wine, white wine and various cocktails. It uses",
+          "x": 36,
+          "y": 92.904,
+          "h": 10.56
+        },
+        {
+          "text": "multi",
+          "x": 36,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "-",
+          "x": 58.8,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "national ingredients and innovative recipe to cook.",
+          "x": 64.104,
+          "y": 77.304,
+          "h": 10.56
+        },
+        {
+          "text": "标签：",
+          "x": 36,
+          "y": 61.704,
+          "h": 10.56
+        },
+        {
+          "text": "International / Yoshoku",
+          "x": 36,
+          "y": 46.08,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 55,
+          "fileName": "page-055-img-01.png",
+          "url": "/openrice-photos/page-055-img-01.png",
+          "objId": "img_p54_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 276.5,
+            "minY": 465.95,
+            "maxY": 785.8499999999999,
+            "width": 240.5,
+            "height": 319.8999999999999
+          },
+          "width": 668,
+          "height": 888
+        },
+        {
+          "page": 55,
+          "fileName": "page-055-img-02.png",
+          "url": "/openrice-photos/page-055-img-02.png",
+          "objId": "img_p54_2",
+          "bbox": {
+            "minX": 276.5,
+            "maxX": 514.94,
+            "minY": 465.95,
+            "maxY": 787.0999999999999,
+            "width": 238.44000000000005,
+            "height": 321.1499999999999
+          },
+          "width": 662,
+          "height": 892
+        },
+        {
+          "page": 55,
+          "fileName": "page-055-img-03.png",
+          "url": "/openrice-photos/page-055-img-03.png",
+          "objId": "img_p54_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 407.85,
+            "minY": 167.91,
+            "maxY": 446.23,
+            "width": 371.85,
+            "height": 278.32000000000005
+          },
+          "width": 1267,
+          "height": 949
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "textRows": [
+        {
+          "text": "评价：",
+          "x": 36,
+          "y": 795,
+          "h": 10.56
+        },
+        {
+          "text": "美食：",
+          "x": 36,
+          "y": 436.15,
+          "h": 10.56
+        }
+      ],
+      "images": [
+        {
+          "page": 56,
+          "fileName": "page-056-img-01.png",
+          "url": "/openrice-photos/page-056-img-01.png",
+          "objId": "img_p55_1",
+          "bbox": {
+            "minX": 36,
+            "maxX": 241.95,
+            "minY": 452.13,
+            "maxY": 785.35,
+            "width": 205.95,
+            "height": 333.22
+          },
+          "width": 634,
+          "height": 1025
+        },
+        {
+          "page": 56,
+          "fileName": "page-056-img-02.png",
+          "url": "/openrice-photos/page-056-img-02.png",
+          "objId": "img_p55_2",
+          "bbox": {
+            "minX": 241.95,
+            "maxX": 438.5,
+            "minY": 452.15,
+            "maxY": 783.8,
+            "width": 196.55,
+            "height": 331.65
+          },
+          "width": 603,
+          "height": 1017
+        },
+        {
+          "page": 56,
+          "fileName": "page-056-img-03.png",
+          "url": "/openrice-photos/page-056-img-03.png",
+          "objId": "img_p55_3",
+          "bbox": {
+            "minX": 36,
+            "maxX": 268.15,
+            "minY": 120.55,
+            "maxY": 430.45,
+            "width": 232.14999999999998,
+            "height": 309.9
+          },
+          "width": 644,
+          "height": 860
+        },
+        {
+          "page": 56,
+          "fileName": "page-056-img-04.png",
+          "url": "/openrice-photos/page-056-img-04.png",
+          "objId": "img_p55_4",
+          "bbox": {
+            "minX": 268.5,
+            "maxX": 502.84000000000003,
+            "minY": 119.95,
+            "maxY": 431.09999999999997,
+            "width": 234.34000000000003,
+            "height": 311.15
+          },
+          "width": 650,
+          "height": 864
+        }
+      ]
+    }
+  ]
+}

@@ -2,27 +2,19 @@
 
 import "leaflet/dist/leaflet.css";
 
-import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
+import { MapContainer, Marker, Popup, TileLayer, useMap } from "react-leaflet";
 import L from "leaflet";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { useRef } from "react";
 import type { Restaurant } from "@/data/restaurants";
 import { RestaurantCard } from "@/components/RestaurantCard";
 
-type Audience = Restaurant["discourse_tags"]["audience"];
-
-function audienceColor(audience: Audience) {
-  switch (audience) {
-    case "local":
-      return { bg: "#10B981", ring: "rgba(16,185,129,0.35)" }; // emerald
-    case "tourist":
-      return { bg: "#F43F5E", ring: "rgba(244,63,94,0.35)" }; // rose
-    case "mixed":
-      return { bg: "#F59E0B", ring: "rgba(245,158,11,0.35)" }; // amber
-  }
+function markerColor() {
+  return { bg: "#8B5CF6", ring: "rgba(139,92,246,0.35)" };
 }
 
-function markerIcon(audience: Audience, active: boolean) {
-  const c = audienceColor(audience);
+function markerIcon(active: boolean) {
+  const c = markerColor();
   const size = active ? 18 : 14;
 
   return L.divIcon({
@@ -56,25 +48,43 @@ export default function MapClient({
   // Hong Kong bounds (approx). Used to keep the map strictly within HK.
   const hkBounds = useMemo(
     () =>
+      // Keep the map focused on HK but leave enough room for popup auto-pan near edges.
       L.latLngBounds(
         // Southwest corner
-        [22.135, 113.84],
+        [22.105, 113.79],
         // Northeast corner
-        [22.57, 114.45]
+        [22.61, 114.5]
       ),
     []
   );
   const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const markerRefs = useRef<Record<string, L.Marker>>(Object.create(null));
+
+  function FocusSelectedMarker() {
+    const map = useMap();
+
+    useEffect(() => {
+      if (!selectedId) return;
+      const marker = markerRefs.current[selectedId];
+      if (!marker) return;
+      map.flyTo(marker.getLatLng(), Math.max(map.getZoom(), 14), {
+        duration: 0.5
+      });
+      marker.openPopup();
+    }, [map, selectedId, restaurants]);
+
+    return null;
+  }
 
   return (
-    <div className="h-[70vh] w-full overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-border sm:h-[78vh]">
+    <div className="h-full w-full overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-border">
       <MapContainer
         center={[hk.lat, hk.lng]}
         zoom={12.8}
         scrollWheelZoom
         className="h-full w-full"
         maxBounds={hkBounds}
-        maxBoundsViscosity={1.0}
+        maxBoundsViscosity={0.85}
         minZoom={12}
         maxZoom={17}
       >
@@ -86,13 +96,17 @@ export default function MapClient({
 
         {restaurants.map((r) => {
           const active = selectedId === r.id || hoveredId === r.id;
-          const icon = markerIcon(r.discourse_tags.audience, active);
+          const icon = markerIcon(active);
 
           return (
             <Marker
               key={r.id}
               position={[r.coordinates.lat, r.coordinates.lng]}
               icon={icon}
+              ref={(node) => {
+                if (node) markerRefs.current[r.id] = node;
+                else delete markerRefs.current[r.id];
+              }}
               eventHandlers={{
                 click: () => onSelect(r.id),
                 mouseover: () => setHoveredId(r.id),
@@ -102,6 +116,8 @@ export default function MapClient({
               <Popup
                 closeButton={false}
                 autoPan
+                keepInView
+                autoPanPadding={[32, 32]}
                 maxWidth={360}
                 className="cd-popup"
                 eventHandlers={{
@@ -113,6 +129,7 @@ export default function MapClient({
             </Marker>
           );
         })}
+        <FocusSelectedMarker />
       </MapContainer>
     </div>
   );

@@ -31,89 +31,99 @@ function StatBar({
 }
 
 export default function InsightsPage() {
-  const byAudience = restaurants.reduce(
-    (acc, r) => {
-      acc[r.discourse_tags.audience] += 1;
-      return acc;
-    },
-    { local: 0, tourist: 0, mixed: 0 }
-  );
-  const max = Math.max(byAudience.local, byAudience.tourist, byAudience.mixed);
+  const sourceLabelMap: Record<string, string> = {
+    local_discourse: "Local Discourse",
+    tourist: "Tourist",
+    social_media: "Social Media",
+    prestige_cultural: "Prestige & Cultural Discourse"
+  };
+  const sourceColorMap: Record<string, string> = {
+    local_discourse: "#0EA5E9",
+    tourist: "#F59E0B",
+    social_media: "#A855F7",
+    prestige_cultural: "#2563EB"
+  };
+  const frameLabelMap: Record<string, string> = {
+    authenticity: "Authenticity",
+    everyday_value: "Everyday Value",
+    trend_hype: "Trend Hype"
+  };
+  const frameColorMap: Record<string, string> = {
+    authenticity: "#0EA5E9",
+    everyday_value: "#10B981",
+    trend_hype: "#A855F7"
+  };
+  const discourseBySource = restaurants.reduce<Record<string, number>>((acc, r) => {
+    for (const source of r.discourse_source) acc[source] = (acc[source] ?? 0) + 1;
+    return acc;
+  }, {});
+  const sourceEntries = Object.entries(discourseBySource).sort((a, b) => b[1] - a[1]);
+  const sourceMax = sourceEntries.length > 0 ? sourceEntries[0][1] : 0;
+  const discourseByFrame = restaurants.reduce<Record<string, number>>((acc, r) => {
+    for (const frame of r.discourse_frame) acc[frame] = (acc[frame] ?? 0) + 1;
+    return acc;
+  }, {});
+  const frameEntries = Object.entries(discourseByFrame).sort((a, b) => b[1] - a[1]);
+  const frameMax = frameEntries.length > 0 ? frameEntries[0][1] : 0;
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8">
       <div className="rounded-2xl bg-white p-6 shadow-card ring-1 ring-border">
-        <div className="text-xs font-medium text-muted">Insights (mock analysis)</div>
+        <div className="text-xs font-medium text-muted">Insights (real-field analysis)</div>
         <h1 className="mt-2 text-2xl font-semibold tracking-tight text-ink">
-          Discourse patterns in Hong Kong food talk
+          Discourse Summary
         </h1>
         <p className="mt-3 text-sm leading-relaxed text-muted">
-          These observations are written as if derived from a small corpus of blogs, platform posts,
-          and review snippets. The goal is to demonstrate how discourse analysis can be made
-          explorable through interface design.
+          A compact overview of discourse source and frame distributions from your curated coding table.
         </p>
       </div>
 
-      <section className="mt-6 grid grid-cols-1 gap-4 md:grid-cols-2">
-        <div className="rounded-2xl bg-white p-6 ring-1 ring-border">
-          <h2 className="text-base font-semibold tracking-tight text-ink">
-            1) Authenticity becomes a “scene,” not a property
-          </h2>
-          <p className="mt-2 text-sm leading-relaxed text-muted">
-            Tourist discourse often ties authenticity to sensory cues—crowds, heat, speed, and
-            “no-frills” environments—turning everyday spaces into performative “local scenes.” In
-            local discourse, authenticity is less narrated and more assumed: it appears indirectly
-            through routine, lineage, and the correctness of technique.
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-white p-6 ring-1 ring-border">
-          <h2 className="text-base font-semibold tracking-tight text-ink">
-            2) Social media shifts evaluation from taste → imageable moments
-          </h2>
-          <p className="mt-2 text-sm leading-relaxed text-muted">
-            Aesthetic discourse highlights “first bites,” close-up textures, and camera-friendly
-            lighting (e.g., sizzle shots, neon backdrops). This can raise “trendiness” even when
-            authenticity is described as low—because visibility becomes the value.
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-white p-6 ring-1 ring-border">
-          <h2 className="text-base font-semibold tracking-tight text-ink">
-            3) Local discourse indexes care through small calibrations
-          </h2>
-          <p className="mt-2 text-sm leading-relaxed text-muted">
-            Instead of superlatives, local talk often uses calibration: wrapper thickness, syrup
-            density, chewiness, browning level, “wok hei.” These micro-evaluations function as a
-            community vocabulary that quietly marks expertise.
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-white p-6 ring-1 ring-border">
-          <h2 className="text-base font-semibold tracking-tight text-ink">
-            4) Mixed-audience places mediate discourse (and design for it)
-          </h2>
-          <p className="mt-2 text-sm leading-relaxed text-muted">
-            “Mixed” spaces often stabilize multiple readings at once: they provide a narrative hook
-            for visitors (iconic, must-try) while preserving enough technical or habitual cues to
-            remain legible to locals. Interface-wise, these are the places where tags compete most
-            strongly.
-          </p>
+      <section className="mt-6 rounded-2xl bg-white p-6 ring-1 ring-border">
+        <h2 className="text-base font-semibold tracking-tight text-ink">
+          Discourse Source Distribution
+        </h2>
+        <p className="mt-2 text-sm text-muted">
+          Counts each selected source label across all mapped restaurants.
+        </p>
+        <div className="mt-4 space-y-3">
+          {sourceEntries.map(([name, value]) => (
+            <StatBar
+              key={name}
+              label={sourceLabelMap[name] ?? name}
+              value={value}
+              max={sourceMax}
+              color={sourceColorMap[name] ?? "#6366F1"}
+            />
+          ))}
         </div>
       </section>
 
       <section className="mt-6 rounded-2xl bg-white p-6 ring-1 ring-border">
         <h2 className="text-base font-semibold tracking-tight text-ink">
-          Quick distribution: audience discourse in the dataset
+          Discourse Frame Distribution
         </h2>
         <p className="mt-2 text-sm text-muted">
-          A lightweight bar chart (no heavy libraries) summarizing marker color encoding.
+          Counts each selected frame label across all mapped restaurants.
         </p>
         <div className="mt-4 space-y-3">
-          <StatBar label="Local" value={byAudience.local} max={max} color="#10B981" />
-          <StatBar label="Tourist" value={byAudience.tourist} max={max} color="#F43F5E" />
-          <StatBar label="Mixed" value={byAudience.mixed} max={max} color="#F59E0B" />
+          {frameEntries.map(([name, value]) => (
+            <StatBar
+              key={name}
+              label={frameLabelMap[name] ?? name}
+              value={value}
+              max={frameMax}
+              color={frameColorMap[name] ?? "#6366F1"}
+            />
+          ))}
         </div>
+      </section>
+
+      <section className="mt-6 rounded-2xl bg-white p-6 ring-1 ring-border">
+        <h2 className="text-base font-semibold tracking-tight text-ink">Method Note</h2>
+        <p className="mt-2 text-sm leading-relaxed text-muted">
+          Labels come from a manually defined discourse coding table. Because records can carry multiple
+          labels, totals represent tag occurrences rather than mutually exclusive restaurant counts.
+        </p>
       </section>
     </main>
   );

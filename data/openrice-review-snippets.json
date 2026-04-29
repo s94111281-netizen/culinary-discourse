@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "source": "openrice评价.pdf text layer",
+    "extracted_at": "2026-04-29T11:13:24.277Z",
+    "total": 38,
+    "with_review_text": 22,
+    "without_review_text": 16
+  },
+  "restaurants": [
+    {
+      "index": 1,
+      "page": 1,
+      "infoPage": 1,
+      "titleText": "1 新肥泉海鲜大排档",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "infoPage": 2,
+      "titleText": "2 佐敦寶靈街",
+      "review_lines": [
+        "It is a Chinese court themed hot pot restaurant. It provides Chinese court dress for customers to take pictures and",
+        "wear to enjoy meals. The hot pot soup bases serve several flavours, such as fish maw and chicken soup, sea snails in",
+        "ingredients are diverse, including meat from worldwide and different types of seafood."
+      ],
+      "review_text": "It is a Chinese court themed hot pot restaurant. It provides Chinese court dress for customers to take pictures and wear to enjoy meals. The hot pot soup bases serve several flavours, such as fish maw and chicken soup, sea snails in ingredients are diverse, including meat from worldwide and different types of seafood."
+    },
+    {
+      "index": 3,
+      "page": 4,
+      "infoPage": 4,
+      "titleText": "3 得闲饮茶",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 4,
+      "page": 5,
+      "infoPage": 5,
+      "titleText": "4 富豪酒家",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 5,
+      "page": 7,
+      "infoPage": 7,
+      "titleText": "5 孖宝车仔面",
+      "review_lines": [
+        "This cart noodles restaurant provides many different choices for the ingredients, with low price. Remember to add"
+      ],
+      "review_text": "This cart noodles restaurant provides many different choices for the ingredients, with low price. Remember to add"
+    },
+    {
+      "index": 6,
+      "page": 8,
+      "infoPage": 8,
+      "titleText": "6 痴胶鸡",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 7,
+      "page": 10,
+      "infoPage": 10,
+      "titleText": "7 刘森记面家",
+      "review_lines": [
+        "try dishes include Shrimp Roe, Jook Sing and Beef Stomach, and",
+        "the Picked Radish on the dining table is the unforgettable side."
+      ],
+      "review_text": "try dishes include Shrimp Roe, Jook Sing and Beef Stomach, and the Picked Radish on the dining table is the unforgettable side."
+    },
+    {
+      "index": 8,
+      "page": 11,
+      "infoPage": 12,
+      "titleText": "8 三不馆",
+      "review_lines": [
+        "It is the secondary line of the Sheep and Pig restaurant. It uses fresh ingredients such as different beef cuts and"
+      ],
+      "review_text": "It is the secondary line of the Sheep and Pig restaurant. It uses fresh ingredients such as different beef cuts and"
+    },
+    {
+      "index": 9,
+      "page": 13,
+      "infoPage": 13,
+      "titleText": "9 九记牛腩",
+      "review_lines": [
+        "clear broth and Beef Curry Noodles. This restaurant almost always has a long line so try to visit during non peak"
+      ],
+      "review_text": "clear broth and Beef Curry Noodles. This restaurant almost always has a long line so try to visit during non peak"
+    },
+    {
+      "index": 10,
+      "page": 14,
+      "infoPage": 14,
+      "titleText": "10 甘记烧鹅",
+      "review_lines": [
+        "Kam's Roast Goose is a Guangdong"
+      ],
+      "review_text": "Kam's Roast Goose is a Guangdong"
+    },
+    {
+      "index": 11,
+      "page": 16,
+      "infoPage": 16,
+      "titleText": "11 金华冰室",
+      "review_lines": [
+        "Kam Wah serves in the speed of light, since their signature dishes are the Pineapple bun and eggtarts are that",
+        "popular, it is obvious hat the staff need to be on top form."
+      ],
+      "review_text": "Kam Wah serves in the speed of light, since their signature dishes are the Pineapple bun and eggtarts are that popular, it is obvious hat the staff need to be on top form."
+    },
+    {
+      "index": 12,
+      "page": 17,
+      "infoPage": 17,
+      "titleText": "12 永顺沙爹牛肉专门店",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 13,
+      "page": 19,
+      "infoPage": 19,
+      "titleText": "13 一品鸡煲火锅",
+      "review_lines": [
+        "Famous for its hot and spicy chicken pot, rich in ingredients as well as spices, you must beware of its strong flavor",
+        "which is not easy to be accepted. Signature hand",
+        "made cuttlefish ball is recommended, which made the best match"
+      ],
+      "review_text": "Famous for its hot and spicy chicken pot, rich in ingredients as well as spices, you must beware of its strong flavor which is not easy to be accepted. Signature hand made cuttlefish ball is recommended, which made the best match"
+    },
+    {
+      "index": 14,
+      "page": 20,
+      "infoPage": 20,
+      "titleText": "14 红茶",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 15,
+      "page": 22,
+      "infoPage": 22,
+      "titleText": "15 六福菜馆",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 16,
+      "page": 23,
+      "infoPage": 23,
+      "titleText": "16 忆食尚",
+      "review_lines": [
+        "The owner of the restaurant is also lap",
+        "mei. manufacturer. It has its own factory. All of the lap",
+        "any preservatives and chemicals. It uses the pork from Heyuan and Chongqing."
+      ],
+      "review_text": "The owner of the restaurant is also lap mei. manufacturer. It has its own factory. All of the lap any preservatives and chemicals. It uses the pork from Heyuan and Chongqing."
+    },
+    {
+      "index": 17,
+      "page": 24,
+      "infoPage": 25,
+      "titleText": "17 聚来车仔",
+      "review_lines": [
+        "Delightful cart noodles provide a variety of ingredients. Surprisingly, you can order Ovaltine French Toast here,",
+        "which is as delicate and delicious as a dessert restaurant."
+      ],
+      "review_text": "Delightful cart noodles provide a variety of ingredients. Surprisingly, you can order Ovaltine French Toast here, which is as delicate and delicious as a dessert restaurant."
+    },
+    {
+      "index": 18,
+      "page": 26,
+      "infoPage": 26,
+      "titleText": "18 新同乐",
+      "review_lines": [
+        "Sun Tong Lok's menu has a strong focus on contemporary Guangdong cuisines, with signature dishes including"
+      ],
+      "review_text": "Sun Tong Lok's menu has a strong focus on contemporary Guangdong cuisines, with signature dishes including"
+    },
+    {
+      "index": 19,
+      "page": 28,
+      "infoPage": 28,
+      "titleText": "19 大班楼",
+      "review_lines": [
+        "The Chairman is a Cantonese restaurant that aims to serve original and traditional flavors. All of the chickens and",
+        "pigs served are locally raised in the New Territories. In 2017, this restaurant was named one of Asia's Best 50"
+      ],
+      "review_text": "The Chairman is a Cantonese restaurant that aims to serve original and traditional flavors. All of the chickens and pigs served are locally raised in the New Territories. In 2017, this restaurant was named one of Asia's Best 50"
+    },
+    {
+      "index": 20,
+      "page": 29,
+      "infoPage": 29,
+      "titleText": "20 都爹利会馆",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 21,
+      "page": 31,
+      "infoPage": 31,
+      "titleText": "21 一乐烧鹅",
+      "review_lines": [
+        "style restaurant that offers a great variety of roast meat, noodles, congee and",
+        "rice dishes. The food here is prepared on a made",
+        "order basis and they are famous for their delicious roast"
+      ],
+      "review_text": "style restaurant that offers a great variety of roast meat, noodles, congee and rice dishes. The food here is prepared on a made order basis and they are famous for their delicious roast"
+    },
+    {
+      "index": 22,
+      "page": 32,
+      "infoPage": 32,
+      "titleText": "22 彭庆记食家",
+      "review_lines": [
+        "Pang's Kitchen is renowned for different styles of stir",
+        "famous for its strong taste and ingredients."
+      ],
+      "review_text": "Pang's Kitchen is renowned for different styles of stir famous for its strong taste and ingredients."
+    },
+    {
+      "index": 23,
+      "page": 34,
+      "infoPage": 34,
+      "titleText": "23 兴记猪什专门店",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 24,
+      "page": 35,
+      "infoPage": 35,
+      "titleText": "24 大滚友",
+      "review_lines": [
+        "This hot pot restaurant's decoration is classic. It mixes maw and chicken together for the soup base. It offers variety"
+      ],
+      "review_text": "This hot pot restaurant's decoration is classic. It mixes maw and chicken together for the soup base. It offers variety"
+    },
+    {
+      "index": 25,
+      "page": 36,
+      "infoPage": 37,
+      "titleText": "25 陳儀興玫瑰餐廳",
+      "review_lines": [
+        "Apart from different kinds of Chinese dishes, this restaurant also provides a variety of chicken pot, such as coconut"
+      ],
+      "review_text": "Apart from different kinds of Chinese dishes, this restaurant also provides a variety of chicken pot, such as coconut"
+    },
+    {
+      "index": 26,
+      "page": 38,
+      "infoPage": 38,
+      "titleText": "26 船涡",
+      "review_lines": [
+        "It specializes in steam hot pot and high quality seafood. It provides a la carte and set menu. Also, you can follow the",
+        "cooking instructions to ensure you have a good experience in a privacy dining space, as all the seats are set up with"
+      ],
+      "review_text": "It specializes in steam hot pot and high quality seafood. It provides a la carte and set menu. Also, you can follow the cooking instructions to ensure you have a good experience in a privacy dining space, as all the seats are set up with"
+    },
+    {
+      "index": 27,
+      "page": 39,
+      "infoPage": 40,
+      "titleText": "27 鋿晶馆",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 28,
+      "page": 41,
+      "infoPage": 41,
+      "titleText": "28 妈咪鸡蛋仔",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 29,
+      "page": 42,
+      "infoPage": 43,
+      "titleText": "29 龙凤店",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 30,
+      "page": 44,
+      "infoPage": 44,
+      "titleText": "30 大澳饼店",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 31,
+      "page": 45,
+      "infoPage": 46,
+      "titleText": "31 申子居酒屋",
+      "review_lines": [
+        "A comfortable Japanese wooden decorated restaurant. It provides lots of Japanese dishes from side dishes, skewers",
+        "and fired to the shabu shabu. The Hiroshima oyster pot is famous and the taste of Japanese miso is rich."
+      ],
+      "review_text": "A comfortable Japanese wooden decorated restaurant. It provides lots of Japanese dishes from side dishes, skewers and fired to the shabu shabu. The Hiroshima oyster pot is famous and the taste of Japanese miso is rich."
+    },
+    {
+      "index": 32,
+      "page": 47,
+      "infoPage": 47,
+      "titleText": "32 Yadllie Plate",
+      "review_lines": [
+        "It is famous for its fried chicken, which is imported from Korea directly. And the sauce is made from the Jeju"
+      ],
+      "review_text": "It is famous for its fried chicken, which is imported from Korea directly. And the sauce is made from the Jeju"
+    },
+    {
+      "index": 33,
+      "page": 48,
+      "infoPage": 48,
+      "titleText": "33 33 Tamarind",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 34,
+      "page": 49,
+      "infoPage": 49,
+      "titleText": "34 Paradise Classic",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 35,
+      "page": 50,
+      "infoPage": 51,
+      "titleText": "35 35 Grissini",
+      "review_lines": [
+        "relaxed and casual atmosphere for guests to enjoy authentic Italian cuisine. The signature grissini breadsticks are"
+      ],
+      "review_text": "relaxed and casual atmosphere for guests to enjoy authentic Italian cuisine. The signature grissini breadsticks are"
+    },
+    {
+      "index": 36,
+      "page": 52,
+      "infoPage": 52,
+      "titleText": "36 Odelice",
+      "review_lines": [
+        "It is a Parisian bistro theme restaurant chain. The menu is diverse. It offers home",
+        "style French dishes which are"
+      ],
+      "review_text": "It is a Parisian bistro theme restaurant chain. The menu is diverse. It offers home style French dishes which are"
+    },
+    {
+      "index": 37,
+      "page": 53,
+      "infoPage": 54,
+      "titleText": "37 鱼事者",
+      "review_lines": [],
+      "review_text": ""
+    },
+    {
+      "index": 38,
+      "page": 55,
+      "infoPage": 55,
+      "titleText": "38 Nonsense",
+      "review_lines": [
+        "Located in To Kwa Wan, the restaurant has a bar that serves red wine, white wine and various cocktails. It uses"
+      ],
+      "review_text": "Located in To Kwa Wan, the restaurant has a bar that serves red wine, white wine and various cocktails. It uses"
+    }
+  ]
+}
