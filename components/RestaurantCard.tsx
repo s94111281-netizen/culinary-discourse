@@ -166,9 +166,9 @@ export function RestaurantCard({
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center rounded-lg bg-cyan-50 px-2.5 py-1.5 text-xs font-semibold text-cyan-700 ring-1 ring-cyan-100 hover:bg-cyan-100"
-            aria-label={`Navigate to ${displayName} on Apple Maps`}
+            aria-label={`Navigate to ${displayName} on Apple Maps or AMap`}
           >
-            Apple Route
+            Apple/AMap Route
           </a>
         </div>
       </div>
