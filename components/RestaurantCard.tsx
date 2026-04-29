@@ -41,6 +41,9 @@ export function RestaurantCard({
   };
   const photoUrl = restaurant.photo_url ?? null;
   const displayName = formatRestaurantName(restaurant);
+  const destination = `${restaurant.coordinates.lat},${restaurant.coordinates.lng}`;
+  const googleDirectionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(destination)}&destination_place_id=&travelmode=walking`;
+  const appleDirectionsUrl = `https://maps.apple.com/?daddr=${encodeURIComponent(destination)}&dirflg=w`;
   const [photoLoaded, setPhotoLoaded] = useState(false);
   const [photoFailed, setPhotoFailed] = useState(false);
   const [zoomOpen, setZoomOpen] = useState(false);
@@ -53,7 +56,7 @@ export function RestaurantCard({
   }, [photoUrl, restaurant.id]);
 
   return (
-    <div className="w-[320px] rounded-2xl bg-card shadow-lg ring-1 ring-border transition-shadow hover:shadow-xl">
+    <div className="w-[min(320px,calc(100vw-56px))] rounded-2xl bg-card shadow-lg ring-1 ring-border transition-shadow hover:shadow-xl sm:w-[320px]">
       <div className="relative h-40 w-full overflow-hidden rounded-t-2xl bg-slate-100">
         {showPhoto ? (
           <button
@@ -148,6 +151,26 @@ export function RestaurantCard({
         >
           Open source record
         </a>
+        <div className="grid grid-cols-2 gap-2">
+          <a
+            href={googleDirectionsUrl}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center justify-center rounded-lg bg-emerald-50 px-2.5 py-1.5 text-xs font-semibold text-emerald-700 ring-1 ring-emerald-100 hover:bg-emerald-100"
+            aria-label={`Navigate to ${displayName} on Google Maps`}
+          >
+            Google Route
+          </a>
+          <a
+            href={appleDirectionsUrl}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center justify-center rounded-lg bg-cyan-50 px-2.5 py-1.5 text-xs font-semibold text-cyan-700 ring-1 ring-cyan-100 hover:bg-cyan-100"
+            aria-label={`Navigate to ${displayName} on Apple Maps`}
+          >
+            Apple Route
+          </a>
+        </div>
       </div>
 
       {zoomOpen && showPhoto ? (

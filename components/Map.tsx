@@ -8,6 +8,9 @@ export function Map(props: {
   restaurants: Restaurant[];
   selectedId: string | null;
   onSelect: (id: string | null) => void;
+  tripMode: boolean;
+  tripStopIds: string[];
+  onTripStatsChange: (stats: { distanceKm: number; durationMin: number } | null) => void;
 }) {
   return <MapClient {...props} />;
 }

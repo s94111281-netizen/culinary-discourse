@@ -37,4 +37,16 @@ body {
 .cd-popup .leaflet-popup-content-wrapper {
   padding: 0;
 }
+.cd-popup .leaflet-popup-content {
+  /* Use dvh so mobile browser chrome changes do not clip popup content. */
+  max-height: min(70dvh, 620px);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+@media (max-width: 640px) {
+  .cd-popup .leaflet-popup-content {
+    max-height: min(65dvh, 520px);
+  }
+}
 
