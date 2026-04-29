@@ -1,6 +1,7 @@
 "use client";
 
 import { formatRestaurantName, type Restaurant } from "@/data/restaurants";
+import { RestaurantComments } from "@/components/RestaurantComments";
 import clsx from "clsx";
 import { useEffect, useState } from "react";
 
@@ -171,6 +172,7 @@ export function RestaurantCard({
             Apple/AMap Route
           </a>
         </div>
+        <RestaurantComments restaurantId={restaurant.id} />
       </div>
 
       {zoomOpen && showPhoto ? (
