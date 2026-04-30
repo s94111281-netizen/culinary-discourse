@@ -19,6 +19,9 @@ export default function HomePage() {
   const [tripMode, setTripMode] = useState(false);
   const [tripStopIds, setTripStopIds] = useState<string[]>([]);
   const [tripStats, setTripStats] = useState<{ distanceKm: number; durationMin: number } | null>(null);
+  const [tripOptimizeRequestKey, setTripOptimizeRequestKey] = useState(0);
+  const [tripOptimizeLoading, setTripOptimizeLoading] = useState(false);
+  const [tripOptimizeError, setTripOptimizeError] = useState<string | null>(null);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => setMounted(true), []);
@@ -204,14 +207,34 @@ export default function HomePage() {
               <button
                 type="button"
                 onClick={() => {
+                  setTripOptimizeError(null);
+                  setTripOptimizeLoading(true);
+                  setTripOptimizeRequestKey((current) => current + 1);
+                }}
+                disabled={tripStopIds.length < 3 || tripOptimizeLoading}
+                className="rounded-lg bg-amber-50 px-2.5 py-1.5 text-xs font-semibold text-amber-700 ring-1 ring-amber-100 hover:bg-amber-100 disabled:cursor-not-allowed disabled:opacity-50"
+              >
+                {tripOptimizeLoading ? "Optimizing order..." : "Optimize order"}
+              </button>
+              <button
+                type="button"
+                onClick={() => {
                   setTripStopIds([]);
                   setTripStats(null);
+                  setTripOptimizeError(null);
                 }}
                 className="rounded-lg bg-slate-100 px-2.5 py-1.5 text-xs font-semibold text-slate-700 ring-1 ring-slate-200 hover:bg-slate-200"
               >
                 Clear stops
               </button>
             </div>
+            {tripOptimizeError ? (
+              <div className="mt-2 text-xs text-rose-600">{tripOptimizeError}</div>
+            ) : tripStopIds.length >= 3 ? (
+              <div className="mt-2 text-[11px] text-slate-600">
+                Optimize order uses global shortest mode and may change the first stop.
+              </div>
+            ) : null}
             <div className="mt-3 max-h-48 space-y-2 overflow-y-auto pr-1">
               {tripStops.length === 0 ? (
                 <div className="rounded-lg border border-dashed border-slate-200 bg-slate-50 px-3 py-2 text-xs text-slate-500">
@@ -274,6 +297,16 @@ export default function HomePage() {
             tripMode={tripMode}
             tripStopIds={tripStopIds}
             onTripStatsChange={setTripStats}
+            tripOptimizeRequestKey={tripOptimizeRequestKey}
+            onTripOrderOptimized={(ids) => {
+              setTripStopIds(ids);
+              setTripOptimizeError(null);
+              setTripOptimizeLoading(false);
+            }}
+            onTripOptimizeError={(message) => {
+              setTripOptimizeError(message);
+              setTripOptimizeLoading(false);
+            }}
           />
         ) : (
           <div className="h-full w-full animate-pulse rounded-2xl bg-black/[0.03] ring-1 ring-border" />

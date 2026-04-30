@@ -103,11 +103,9 @@ export function RestaurantCard({
           <div className="text-base font-semibold leading-snug tracking-tight text-ink">
             {displayName}
           </div>
-          <div className="text-sm font-medium text-ink/90">{restaurant.amenity.replaceAll("_", " ")}</div>
         </div>
 
         <p className="text-sm leading-relaxed text-muted">{restaurant.address}</p>
-
         <div className="flex flex-wrap gap-1.5">
           {restaurant.cuisine.length > 0 ? restaurant.cuisine.map((k) => (
             <Badge
@@ -118,7 +116,6 @@ export function RestaurantCard({
             </Badge>
           )) : <span className="text-xs text-muted">No cuisine tag on source record.</span>}
         </div>
-
         <div className="flex flex-wrap gap-1.5">
           <Badge className="bg-sky-50 text-sky-700 ring-sky-200">
             Source: {restaurant.discourse_source.map((item) => discourseLabelMap[item]).join(" + ")}

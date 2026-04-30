@@ -44,7 +44,10 @@ export default function MapClient({
   onSelect,
   tripMode,
   tripStopIds,
-  onTripStatsChange
+  onTripStatsChange,
+  tripOptimizeRequestKey,
+  onTripOrderOptimized,
+  onTripOptimizeError
 }: {
   restaurants: Restaurant[];
   selectedId: string | null;
@@ -52,6 +55,9 @@ export default function MapClient({
   tripMode: boolean;
   tripStopIds: string[];
   onTripStatsChange: (stats: { distanceKm: number; durationMin: number } | null) => void;
+  tripOptimizeRequestKey: number;
+  onTripOrderOptimized: (ids: string[]) => void;
+  onTripOptimizeError: (message: string) => void;
 }) {
   const hk = useMemo(() => ({ lat: 22.3193, lng: 114.1694 }), []);
   // Hong Kong bounds (approx). Used to keep the map strictly within HK.
@@ -68,6 +74,7 @@ export default function MapClient({
   );
   const [hoveredId, setHoveredId] = useState<string | null>(null);
   const markerRefs = useRef<Record<string, L.Marker>>(Object.create(null));
+  const handledOptimizeRequestRef = useRef(0);
   const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
   const [singleRoute, setSingleRoute] = useState<L.LatLngExpression[]>([]);
   const [singleRouteDistanceKm, setSingleRouteDistanceKm] = useState<number | null>(null);
@@ -110,6 +117,32 @@ export default function MapClient({
       distanceKm: (firstRoute.distance ?? 0) / 1000,
       durationMin: (firstRoute.duration ?? 0) / 60
     };
+  }
+
+  async function fetchOptimizedTripOrder(
+    points: Array<{ lat: number; lng: number }>,
+    ids: string[],
+    signal: AbortSignal
+  ): Promise<string[]> {
+    const coords = points.map((point) => `${point.lng},${point.lat}`).join(";");
+    const url = `https://router.project-osrm.org/trip/v1/driving/${coords}?source=any&destination=any&roundtrip=false&overview=false`;
+    const response = await fetch(url, { signal });
+    if (!response.ok) throw new Error(`Trip API returned ${response.status}`);
+    const payload = (await response.json()) as {
+      waypoints?: Array<{ waypoint_index?: number }>;
+    };
+    if (!payload.waypoints || payload.waypoints.length !== ids.length) {
+      throw new Error("Trip API did not return a complete waypoint order.");
+    }
+
+    const ranked = payload.waypoints
+      .map((waypoint, inputIndex) => ({
+        id: ids[inputIndex],
+        order: waypoint.waypoint_index ?? Number.MAX_SAFE_INTEGER
+      }))
+      .sort((a, b) => a.order - b.order)
+      .map((item) => item.id);
+    return ranked;
   }
 
   function requestUserLocation() {
@@ -194,6 +227,30 @@ export default function MapClient({
 
     return () => controller.abort();
   }, [onTripStatsChange, tripMode, tripStops]);
+
+  useEffect(() => {
+    if (tripOptimizeRequestKey === 0) return;
+    if (tripOptimizeRequestKey <= handledOptimizeRequestRef.current) return;
+    handledOptimizeRequestRef.current = tripOptimizeRequestKey;
+    if (tripStops.length < 3) {
+      onTripOptimizeError("Add at least 3 stops to optimize the route order.");
+      return;
+    }
+    const controller = new AbortController();
+    fetchOptimizedTripOrder(
+      tripStops.map((stop) => stop.coordinates),
+      tripStops.map((stop) => stop.id),
+      controller.signal
+    )
+      .then((orderedIds) => {
+        onTripOrderOptimized(orderedIds);
+      })
+      .catch((error: unknown) => {
+        if ((error as { name?: string }).name === "AbortError") return;
+        onTripOptimizeError("Could not optimize trip order right now.");
+      });
+    return () => controller.abort();
+  }, [onTripOptimizeError, onTripOrderOptimized, tripOptimizeRequestKey, tripStops]);
 
   function FocusSelectedMarker() {
     const map = useMap();

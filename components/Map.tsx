@@ -11,6 +11,9 @@ export function Map(props: {
   tripMode: boolean;
   tripStopIds: string[];
   onTripStatsChange: (stats: { distanceKm: number; durationMin: number } | null) => void;
+  tripOptimizeRequestKey: number;
+  onTripOrderOptimized: (ids: string[]) => void;
+  onTripOptimizeError: (message: string) => void;
 }) {
   return <MapClient {...props} />;
 }
