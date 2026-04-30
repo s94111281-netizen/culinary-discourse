@@ -125,7 +125,9 @@ export default function MapClient({
     signal: AbortSignal
   ): Promise<string[]> {
     const coords = points.map((point) => `${point.lng},${point.lat}`).join(";");
-    const url = `https://router.project-osrm.org/trip/v1/driving/${coords}?source=any&destination=any&roundtrip=false&overview=false`;
+    // Public OSRM server does not support some advanced trip params (returns NotImplemented),
+    // so use a broadly supported query to keep optimization stable in production.
+    const url = `https://router.project-osrm.org/trip/v1/driving/${coords}?overview=false&steps=false`;
     const response = await fetch(url, { signal });
     if (!response.ok) throw new Error(`Trip API returned ${response.status}`);
     const payload = (await response.json()) as {
