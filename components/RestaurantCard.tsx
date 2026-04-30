@@ -109,11 +109,19 @@ export function RestaurantCard({
         <p className="text-sm leading-relaxed text-muted">{restaurant.address}</p>
 
         <div className="flex flex-wrap gap-1.5">
-          <Badge className="bg-indigo-50 text-indigo-700 ring-indigo-200">
-            Source: {restaurant.source.provider}
-          </Badge>
+          {restaurant.cuisine.length > 0 ? restaurant.cuisine.map((k) => (
+            <Badge
+              key={k}
+              className="bg-amber-50 text-amber-900 ring-amber-200 shadow-[0_1px_0_rgba(17,24,39,0.04)]"
+            >
+              {k.replaceAll("_", " ")}
+            </Badge>
+          )) : <span className="text-xs text-muted">No cuisine tag on source record.</span>}
+        </div>
+
+        <div className="flex flex-wrap gap-1.5">
           <Badge className="bg-sky-50 text-sky-700 ring-sky-200">
-            Discourse: {restaurant.discourse_source.map((item) => discourseLabelMap[item]).join(" + ")}
+            Source: {restaurant.discourse_source.map((item) => discourseLabelMap[item]).join(" + ")}
           </Badge>
           <Badge className="bg-purple-50 text-purple-700 ring-purple-200">
             Frame: {restaurant.discourse_frame.map((item) => frameLabelMap[item]).join(" + ")}
@@ -122,35 +130,15 @@ export function RestaurantCard({
             <Badge className="bg-black/5 text-ink ring-black/10">Opening hours available</Badge>
           ) : null}
         </div>
-        <div className="rounded-xl border border-slate-200 bg-slate-50/70 p-2">
-          <div className="text-[11px] font-semibold tracking-wide text-slate-600">
+        <div className="rounded-xl border border-emerald-200 bg-emerald-50/45 p-2">
+          <div className="text-[11px] font-semibold tracking-wide text-emerald-700">
             Restaurant introduction
           </div>
-          <p className="mt-1 text-xs leading-relaxed text-slate-600">
+          <p className="mt-1 text-xs leading-relaxed text-slate-700">
             {restaurant.coding_evidence[0] ?? "No introduction available."}
           </p>
         </div>
 
-        <div className="flex flex-wrap gap-1.5">
-          {restaurant.cuisine.length > 0 ? restaurant.cuisine.map((k) => (
-            <Badge
-              key={k}
-              className="bg-white text-ink ring-black/10 shadow-[0_1px_0_rgba(17,24,39,0.06)]"
-            >
-              {k.replaceAll("_", " ")}
-            </Badge>
-          )) : <span className="text-xs text-muted">No cuisine tag on source record.</span>}
-        </div>
-        <a
-          href={restaurant.source.osm_url}
-          target="_blank"
-          rel="noreferrer"
-          className={clsx(
-            "inline-flex rounded-lg bg-indigo-50 px-2.5 py-1.5 text-xs font-semibold text-indigo-700 ring-1 ring-indigo-100 hover:bg-indigo-100"
-          )}
-        >
-          Open source record
-        </a>
         <div className="grid grid-cols-2 gap-2">
           <a
             href={googleDirectionsUrl}

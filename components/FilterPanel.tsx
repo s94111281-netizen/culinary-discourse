@@ -198,17 +198,17 @@ export function FilterPanel({
     filters.cuisine !== "any" || filters.discourseSource.length > 0 || filters.discourseFrame.length > 0;
 
   return (
-    <div className="rounded-2xl bg-card p-4 shadow-lg ring-1 ring-border transition-shadow hover:shadow-xl">
+    <div className="rounded-2xl border border-emerald-200 bg-emerald-100/70 p-4 shadow-lg ring-1 ring-emerald-200/70 transition-shadow hover:shadow-xl">
       <div className="flex items-start justify-between gap-3">
         <div>
           <div className="text-sm font-semibold tracking-tight text-ink">
             Discourse Filters
           </div>
-          <div className="mt-2 inline-flex items-center gap-2 rounded-full bg-indigo-50 px-3 py-1 text-xs font-medium text-indigo-700 ring-1 ring-indigo-100">
-            <span className="text-indigo-700/80">Showing</span>
-            <span className="font-bold text-indigo-800">{matchCount}</span>
-            <span className="text-indigo-700/80">of</span>
-            <span className="font-bold text-indigo-800">{totalCount}</span>
+          <div className="mt-2 inline-flex items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-200">
+            <span className="text-emerald-700/80">Showing</span>
+            <span className="font-bold text-emerald-800">{matchCount}</span>
+            <span className="text-emerald-700/80">of</span>
+            <span className="font-bold text-emerald-800">{totalCount}</span>
           </div>
         </div>
         <button
@@ -217,7 +217,7 @@ export function FilterPanel({
           className={clsx(
             "rounded-full px-3 py-1.5 text-xs font-medium transition",
             isFiltered
-              ? "bg-indigo-50 text-indigo-700 ring-1 ring-indigo-100 hover:bg-indigo-100"
+              ? "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200 hover:bg-emerald-100"
               : "bg-black/5 text-muted opacity-60"
           )}
           disabled={!isFiltered}

@@ -32,6 +32,11 @@ export default function AboutPage() {
             The dataset is sourced from OpenStreetMap-compatible fields (name, location, amenity,
             cuisine, district-related address tags) and can be refreshed through Overpass API.
           </p>
+          <p className="mt-2 text-sm leading-relaxed text-muted">
+            Restaurant cards intentionally keep source labels minimal for readability; detailed source
+            provenance is documented here. Current map records are derived from OpenRice and
+            OpenStreetMap Nominatim/Overpass workflows.
+          </p>
         </div>
 
         <div className="rounded-2xl bg-white p-6 ring-1 ring-border">

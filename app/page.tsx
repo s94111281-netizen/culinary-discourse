@@ -80,10 +80,10 @@ export default function HomePage() {
     <main className="mx-auto grid max-w-[1300px] grid-cols-[380px_minmax(0,1fr)] gap-4 overflow-x-auto px-4 pb-0 pt-2">
       <aside className="sticky top-[56px] h-[calc(100vh-64px)] overflow-y-auto pr-1">
         <div className="space-y-4 rounded-3xl border border-indigo-100 bg-gradient-to-b from-indigo-50/70 via-white to-purple-50/50 p-3 shadow-lg transition-shadow hover:shadow-xl">
-          <div className="rounded-2xl border border-indigo-100 bg-gradient-to-br from-indigo-50/60 via-white to-purple-50/40 p-4 shadow-lg ring-1 ring-indigo-100/60 transition-shadow hover:shadow-xl">
+          <div className="rounded-2xl border border-amber-200 bg-amber-100/80 p-4 shadow-lg ring-1 ring-amber-200/80 transition-shadow hover:shadow-xl">
             <div className="flex items-start justify-between gap-2">
               <div>
-                <div className="text-sm font-medium tracking-tight text-ink">Area Navigator</div>
+                <div className="text-sm font-semibold tracking-tight text-ink">Area Navigator</div>
                 <p className="mt-1 text-xs text-muted">Browse filtered records by district.</p>
               </div>
               <span className="rounded-full bg-indigo-100/80 px-2.5 py-1 text-[11px] font-medium text-indigo-700">
@@ -93,7 +93,7 @@ export default function HomePage() {
 
             <div className="mt-3">
               <div className="mb-1 flex items-center justify-between">
-                <span className="text-[11px] font-medium tracking-wide text-indigo-700/80">District</span>
+                <span className="text-[11px] font-semibold tracking-wide text-indigo-700/80">District</span>
                 {activeDistrict ? (
                   <button
                     type="button"
@@ -120,7 +120,7 @@ export default function HomePage() {
               </select>
             </div>
 
-            <div className="mt-3 text-xs font-medium text-indigo-700/90">
+            <div className="mt-3 text-xs font-semibold text-indigo-700/90">
               {activeDistrict ? `Restaurants in ${activeDistrict}` : "Restaurants in all districts"}
             </div>
             <div className="relative mt-2">
@@ -138,7 +138,7 @@ export default function HomePage() {
                           : "border-l-transparent border-slate-200 bg-white/95 text-slate-700 hover:border-indigo-200 hover:bg-indigo-50/70")
                       }
                     >
-                      <div className="text-xs font-medium">{formatRestaurantName(restaurant)}</div>
+                      <div className="text-xs font-semibold text-ink">{formatRestaurantName(restaurant)}</div>
                       <div className="mt-0.5 text-[11px] text-slate-500">
                         {restaurant.amenity.replaceAll("_", " ")} · {restaurant.district}
                       </div>
@@ -173,7 +173,7 @@ export default function HomePage() {
             onReset={() => setFilters(defaultFilters)}
             restaurants={restaurants}
           />
-          <div className="rounded-2xl border border-indigo-100 bg-white/90 p-4 shadow-lg ring-1 ring-indigo-100/60">
+          <div className="rounded-2xl border border-violet-300 bg-violet-200/70 p-4 shadow-lg ring-1 ring-violet-300/70">
             <div className="flex items-center justify-between gap-2">
               <div>
                 <div className="text-sm font-medium tracking-tight text-ink">Trip Builder</div>
