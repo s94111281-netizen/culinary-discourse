@@ -9,12 +9,15 @@ import { useRef } from "react";
 import type { Restaurant } from "@/data/restaurants";
 import { RestaurantCard } from "@/components/RestaurantCard";
 
-function markerColor() {
+function markerColor(isTripStop: boolean) {
+  if (isTripStop) {
+    return { bg: "#F97316", ring: "rgba(249,115,22,0.38)" };
+  }
   return { bg: "#8B5CF6", ring: "rgba(139,92,246,0.35)" };
 }
 
-function markerIcon(active: boolean) {
-  const c = markerColor();
+function markerIcon(active: boolean, isTripStop: boolean) {
+  const c = markerColor(isTripStop);
   const size = active ? 18 : 14;
 
   return L.divIcon({
@@ -264,7 +267,8 @@ export default function MapClient({
 
         {restaurants.map((r) => {
           const active = selectedId === r.id || hoveredId === r.id;
-          const icon = markerIcon(active);
+          const isTripStop = tripStopIds.includes(r.id);
+          const icon = markerIcon(active, isTripStop);
 
           return (
             <Marker
@@ -309,7 +313,7 @@ export default function MapClient({
         {tripRoute.length > 1 ? (
           <Polyline
             positions={tripRoute}
-            pathOptions={{ color: "#6366f1", weight: 5, opacity: 0.8, dashArray: "10 8" }}
+            pathOptions={{ color: "#F97316", weight: 5, opacity: 0.88, dashArray: "10 8" }}
           />
         ) : null}
         <FocusSelectedMarker />
